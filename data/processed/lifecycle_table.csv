@@ -1,0 +1,576 @@
+song_key,artist_key,song,artist,entry_date,exit_date,peak_position,days_on_chart,album_type,is_explicit,total_tracks,chart_span_days,days_off_chart,num_runs,peak_date,time_to_peak_days,entered_before_data,still_on_chart,first_run_peak_position,first_run_peak_date,time_to_peak_first_run
+0 confianza,rvfv,0 CONFIANZA,Rvfv,2025-06-02,2025-06-23,23,20,album,False,20,22,2,2,2025-06-07,5,False,False,40,2025-06-02,0
+"1 de enero, puntacana",rels b,"1 de Enero, Puntacana",Rels B,2025-04-28,2025-04-28,45,1,album,False,13,1,0,1,2025-04-28,0,False,False,45,2025-04-28,0
+1000cosas,lola indigo & manuel turizo,1000COSAS,Lola Indigo & Manuel Turizo,2025-03-10,2025-11-13,3,245,single,False,1,249,4,1,2025-03-10,0,False,False,3,2025-03-10,0
+100xciento,foreign teck & eladio carrion & de la ghetto,100xCiento,Foreign Teck & Eladio Carrion & De La Ghetto,2025-04-30,2025-05-15,13,11,single,True,1,16,5,4,2025-05-11,11,False,False,42,2025-04-30,0
+14 febreros,quevedo,14 FEBREROS,Quevedo,2025-11-24,2025-11-27,9,4,album,True,18,4,0,1,2025-11-24,0,False,True,9,2025-11-24,0
+2am,sebastian yatra & bad gyal,2AM,Sebastian Yatra & Bad Gyal,2025-11-24,2025-11-27,31,4,single,False,1,4,0,1,2025-11-27,3,False,True,31,2025-11-27,3
+2xll,jc reyes & yovngchimi & slayter,2xLL,JC Reyes & YOVNGCHIMI & Slayter,2025-07-12,2025-08-09,35,26,single,False,1,29,3,2,2025-07-23,11,False,False,50,2025-07-12,0
+3 caídas,saiko,3 CAÍDAS,SAIKO,2025-04-28,2025-05-05,13,8,album,False,16,8,0,1,2025-04-28,0,False,False,13,2025-04-28,0
+4 prez,cruz cafuné,4 PREZ,Cruz Cafuné,2024-05-28,2024-05-29,35,2,album,True,23,2,0,1,2024-05-28,0,False,False,35,2024-05-28,0
+4to 23,aitana,4TO 23,Aitana,2025-07-07,2025-07-16,17,9,single,False,1,10,1,1,2025-07-07,0,False,False,17,2025-07-07,0
+50 palos,feid,50 PALOS,Feid,2024-12-02,2024-12-02,38,1,album,True,10,1,0,1,2024-12-02,0,False,False,38,2024-12-02,0
+57,karol g & feid & dfzm,57,KAROL G & Feid & DFZM,2025-11-10,2025-11-27,8,18,single,True,1,18,0,1,2025-11-10,0,False,True,8,2025-11-10,0
+58,jhayco,58,JHAYCO,2025-09-08,2025-09-18,35,8,album,False,29,11,3,3,2025-09-08,0,False,False,35,2025-09-08,0
+69,nicky jam & feid,69,Nicky Jam & Feid,2024-05-21,2024-06-30,22,41,single,True,1,41,0,1,2024-05-31,10,False,False,22,2024-05-31,10
+a 300,jc reyes & pedro calderon,A 300,JC Reyes & Pedro Calderon,2024-08-06,2025-01-05,15,148,single,False,1,153,5,2,2025-01-05,152,False,False,23,2024-09-04,29
+a 300,jc reyes & pedro calderon & blacknife,A 300,JC Reyes & Pedro Calderon & Blacknife,2025-01-06,2025-04-24,11,107,single,False,1,109,2,1,2025-01-14,8,False,False,11,2025-01-14,8
+a new star (2 0 2 4),rels b,a new star (2 0 2 4),Rels B,2025-05-09,2025-05-30,32,16,album,True,13,22,6,3,2025-05-16,7,False,False,37,2025-05-11,2
+acho pr,bad bunny,ACHO PR,Bad Bunny,2024-10-14,2024-10-20,15,7,album,True,22,7,0,1,2024-10-14,0,False,False,15,2024-10-14,0
+acróstico,shakira,Acróstico,Shakira,2024-05-18,2024-07-09,1,53,single,False,1,53,0,1,2024-05-19,1,True,False,1,2024-05-19,1
+adivino,myke towers,ADIVINO,Myke Towers,2025-08-24,2025-11-16,10,85,album,True,20,85,0,1,2025-08-24,0,False,False,10,2025-08-24,0
+adivino,myke towers & bad bunny,ADIVINO,Myke Towers & Bad Bunny,2025-04-28,2025-08-23,1,116,single,True,1,118,2,1,2025-04-28,0,False,False,1,2025-04-28,0
+akureyri,aitana & sebastian yatra,Akureyri,Aitana & Sebastian Yatra,2025-04-28,2025-06-01,10,34,single,False,1,35,1,2,2025-04-28,0,False,False,10,2025-04-28,0
+alakran,feid,ALAKRAN,Feid,2024-12-02,2024-12-05,24,3,album,False,10,4,1,2,2024-12-02,0,False,False,24,2024-12-02,0
+alegría,tiago pzk,Alegría,Tiago PZK,2025-09-28,2025-10-05,8,8,album,False,14,8,0,1,2025-10-02,4,False,False,8,2025-10-02,4
+all i want for christmas is you,mariah carey,All I Want for Christmas Is You,Mariah Carey,2024-12-03,2025-01-02,1,20,album,False,10,31,11,4,2024-12-25,22,False,False,33,2024-12-04,1
+alucin,eugenio esquivel & grupo marca registrada & sebastian esquivel,Alucin,Eugenio Esquivel & Grupo Marca Registrada & Sebastian Esquivel,2025-01-13,2025-04-05,21,35,single,True,1,83,48,8,2025-03-22,68,False,False,37,2025-01-20,7
+amanece,anuel aa & haze,Amanece,Anuel AA & Haze,2024-05-25,2025-07-06,47,15,single,False,1,408,393,3,2024-06-23,29,False,False,48,2024-05-26,1
+amaneció,quevedo,AMANECIÓ,Quevedo,2025-11-24,2025-11-27,13,4,album,False,18,4,0,1,2025-11-24,0,False,True,13,2025-11-24,0
+amar de nuevo,rauw alejandro,Amar De Nuevo,Rauw Alejandro,2025-11-17,2025-11-17,45,1,album,True,18,1,0,1,2025-11-17,0,False,False,45,2025-11-17,0
+amargura,karol g,AMARGURA,KAROL G,2024-05-26,2025-10-31,16,153,album,True,17,524,371,4,2025-07-26,426,False,False,45,2024-05-27,1
+andando,morad,Andando,Morad,2024-05-18,2024-06-03,34,17,album,True,19,17,0,1,2024-05-19,1,True,False,34,2024-05-19,1
+antes,rvfv & edu garcía,Antes,Rvfv & Edu García,2024-05-18,2024-07-22,29,58,single,False,1,66,8,3,2024-05-18,0,True,False,29,2024-05-18,0
+antidepresivos,saiko,Antidepresivos,Saiko,2024-08-06,2024-12-19,13,136,single,False,1,136,0,1,2024-08-06,0,False,False,13,2024-08-06,0
+apaga el cel,floyymenor,APAGA EL CEL,FloyyMenor,2025-08-10,2025-09-04,22,14,album,True,7,26,12,2,2025-08-10,0,False,False,22,2025-08-10,0
+apaga el cel,floyymenor & lewis somes,APAGA EL CEL,FloyyMenor & Lewis Somes,2025-05-26,2025-08-09,7,75,single,True,1,76,1,1,2025-06-12,17,False,False,7,2025-06-12,17
+apt.,rosé & bruno mars,APT.,ROSÉ & Bruno Mars,2025-10-23,2025-11-01,42,7,single,False,1,10,3,2,2025-10-30,7,False,False,44,2025-10-24,1
+aqyne,aitana,AQYNE,Aitana,2024-09-27,2024-09-29,40,3,album,False,15,3,0,1,2024-09-28,1,False,False,40,2024-09-28,1
+arena y sal,omar montes & saiko & tunvao,Arena y Sal,Omar Montes & Saiko & Tunvao,2024-05-21,2025-01-20,3,242,single,False,1,245,3,2,2024-08-06,77,False,False,3,2024-08-06,77
+arranca (feat. omega),becky g & omega,Arranca (feat. Omega),Becky G & Omega,2024-05-18,2024-07-25,38,69,single,False,1,69,0,1,2024-05-18,0,True,False,38,2024-05-18,0
+asi es la vida,enrique iglesias & maria becerra,ASI ES LA VIDA,Enrique Iglesias & Maria Becerra,2024-11-22,2025-03-23,38,67,single,False,1,122,55,6,2025-01-31,70,False,False,45,2024-11-24,2
+attitude (feat. charlie wilson & cash cobain),don toliver,ATTITUDE (FEAT. CHARLIE WILSON & CASH COBAIN),Don Toliver,2025-06-21,2025-06-21,46,1,album,True,16,1,0,1,2025-06-21,0,False,False,46,2025-06-21,0
+aunque llegue otro (feat. jay wheeler),myke towers,AUNQUE LLEGUE OTRO (feat. Jay Wheeler),Myke Towers,2025-08-24,2025-08-24,23,1,album,True,20,1,0,1,2025-08-24,0,False,False,23,2025-08-24,0
+ayer,dellafuente,Ayer,DELLAFUENTE,2025-06-16,2025-06-18,37,2,album,False,10,3,1,2,2025-06-16,0,False,False,37,2025-06-16,0
+ayer y hoy,mora,AYER Y HOY,Mora,2024-08-30,2024-08-31,23,2,album,True,15,2,0,1,2024-08-30,0,False,False,23,2024-08-30,0
+baby hello,rauw alejandro,BABY HELLO,Rauw Alejandro,2024-07-09,2025-04-19,3,282,album,True,14,285,3,2,2024-07-09,0,False,False,3,2024-07-09,0
+baby hello,rauw alejandro & bizarrap,BABY HELLO,Rauw Alejandro & Bizarrap,2024-06-25,2024-07-08,2,14,single,True,1,14,0,1,2024-06-28,3,False,False,2,2024-06-28,3
+baby nueva,bad bunny,BABY NUEVA,Bad Bunny,2024-10-14,2024-10-28,12,15,album,True,22,15,0,1,2024-10-14,0,False,False,12,2024-10-14,0
+bad boy,chris jedi & gaby music & dei v,BAD BOY,Chris Jedi & Gaby Music & Dei V,2025-02-11,2025-03-10,16,28,single,True,1,28,0,1,2025-02-11,0,False,False,16,2025-02-11,0
+badgyal,saiko,BADGYAL,SAIKO,2025-04-28,2025-11-23,1,208,album,True,16,210,2,1,2025-05-01,3,False,False,1,2025-05-01,3
+bailando bachata,chayanne,Bailando Bachata,Chayanne,2025-05-13,2025-06-02,45,9,album,False,9,21,12,2,2025-06-01,19,False,False,50,2025-05-13,0
+baja pa' acá,rauw alejandro,Baja Pa' Acá,Rauw Alejandro,2025-11-17,2025-11-20,22,4,album,True,18,4,0,1,2025-11-17,0,False,False,22,2025-11-17,0
+bandidona,saiko,Bandidona,Saiko,2024-10-29,2024-11-10,20,13,single,False,1,13,0,1,2024-10-29,0,False,False,20,2024-10-29,0
+bandit,don toliver,BANDIT,Don Toliver,2025-06-21,2025-06-21,27,1,album,True,16,1,0,1,2025-06-21,0,False,False,27,2025-06-21,0
+barro,duki,Barro,Duki,2025-10-20,2025-10-20,40,1,single,False,1,1,0,1,2025-10-20,0,False,False,40,2025-10-20,0
+baticano,bad bunny,BATICANO,Bad Bunny,2024-10-14,2024-10-18,23,5,album,True,22,5,0,1,2024-10-14,0,False,False,23,2024-10-14,0
+bby boo - remix,izaak & jhayco & anuel aa,BBY BOO - REMIX,iZaak & Jhayco & Anuel AA,2025-03-30,2025-07-23,5,115,single,True,3,116,1,1,2025-04-18,19,False,False,5,2025-04-18,19
+beautiful things,benson boone,Beautiful Things,Benson Boone,2025-03-13,2025-06-23,17,91,album,False,15,103,12,3,2025-04-04,22,False,False,17,2025-04-04,22
+bendecido,eladio carrion,Bendecido,Eladio Carrion,2025-01-21,2025-01-26,7,6,album,True,17,6,0,1,2025-01-21,0,False,False,7,2025-01-21,0
+"besame (feat. tiago pzk, khea & neo pistea) - remix",bhavi & seven kayne & milo j,"BESAME (feat. Tiago PZK, Khea & Neo Pistea) - Remix",Bhavi & Seven Kayne & Milo j,2025-04-24,2025-05-06,28,11,single,True,1,13,2,3,2025-04-26,2,False,False,28,2025-04-26,2
+besitos bb 2.0,el perla & omar montes & saiko,Besitos BB 2.0,El Perla & Omar Montes & SAIKO,2025-10-16,2025-10-31,9,11,single,True,1,16,5,3,2025-10-16,0,False,False,9,2025-10-16,0
+beso,rosalía & rauw alejandro,BESO,ROSALÍA & Rauw Alejandro,2024-05-18,2024-10-06,4,142,single,False,3,142,0,1,2024-05-18,0,True,False,4,2024-05-18,0
+beso prohibido,beny jr,Beso Prohibido,Beny Jr,2025-09-07,2025-09-07,49,1,album,False,14,1,0,1,2025-09-07,0,False,False,49,2025-09-07,0
+besos (with kidd keo & neelo),swaggglock & kidd keo & neelo,BESOS (with Kidd Keo & Neelo),SwaggGlock & Kidd Keo & Neelo,2024-09-14,2024-10-13,22,30,single,True,1,30,0,1,2024-09-19,5,False,False,22,2024-09-19,5
+birds of a feather,billie eilish,BIRDS OF A FEATHER,Billie Eilish,2025-06-12,2025-06-13,49,2,album,False,10,2,0,1,2025-06-12,0,False,False,49,2025-06-12,0
+boreal,saiko,BOREAL,SAIKO,2025-04-28,2025-05-01,22,4,album,False,16,4,0,1,2025-04-28,0,False,False,22,2025-04-28,0
+brindis,duki,Brindis,Duki,2025-11-03,2025-11-07,30,3,album,True,15,5,2,2,2025-11-03,0,False,False,30,2025-11-03,0
+bubalu,feid,BUBALU,Feid,2024-09-30,2024-10-06,26,7,album,False,15,7,0,1,2024-09-30,0,False,False,26,2024-09-30,0
+bubalu,feid & rema,BUBALU,Feid & Rema,2024-09-24,2024-09-29,21,6,single,False,1,6,0,1,2024-09-25,1,False,False,21,2024-09-25,1
+buenas,quevedo & saiko,Buenas,Quevedo & Saiko,2024-09-24,2025-03-12,1,170,single,False,1,170,0,1,2024-09-24,0,False,False,1,2024-09-24,0
+buenas noches,quevedo,BUENAS NOCHES,Quevedo,2025-11-24,2025-11-27,18,4,album,False,18,4,0,1,2025-11-24,0,False,True,18,2025-11-24,0
+buscando money,twenty six & tayson kryss,Buscando Money,TWENTY SIX & Tayson Kryss,2025-02-02,2025-04-17,4,73,single,False,2,75,2,1,2025-02-15,13,False,False,4,2025-02-15,13
+buscarte lejos,duki,Buscarte Lejos,Duki,2025-11-03,2025-11-09,28,7,album,False,15,7,0,1,2025-11-06,3,False,False,28,2025-11-06,3
+caché,myke towers,CACHÉ,Myke Towers,2025-08-24,2025-08-24,47,1,album,True,20,1,0,1,2025-08-24,0,False,False,47,2025-08-24,0
+cafe malibú,sech & mora & saiko,Cafe Malibú,Sech & Mora & Saiko,2024-07-23,2024-09-19,9,59,single,True,1,59,0,1,2024-07-25,2,False,False,9,2024-07-25,2
+call me maybe,duki,CALL ME MAYBE,Duki,2024-12-10,2024-12-10,50,1,single,False,1,1,0,1,2024-12-10,0,False,False,50,2024-12-10,0
+cangrinaje,cruz cafuné,Cangrinaje,Cruz Cafuné,2024-05-28,2024-05-28,48,1,album,True,23,1,0,1,2024-05-28,0,False,False,48,2024-05-28,0
+capri sun,b10 & kilvertz,Capri Sun,B10 & Kilvertz,2025-07-31,2025-08-14,34,14,single,False,1,15,1,1,2025-08-05,5,False,False,34,2025-08-05,5
+carita triste,ana mena & emilia,CARITA TRISTE,Ana Mena & Emilia,2025-09-01,2025-11-23,9,84,single,False,1,84,0,1,2025-09-07,6,False,False,9,2025-09-07,6
+cartera & tacos,myke towers,CARTERA & TACOS,Myke Towers,2024-11-25,2024-11-25,47,1,album,True,23,1,0,1,2024-11-25,0,False,False,47,2024-11-25,0
+casanova,soolking & lola indigo & rvfv,Casanova,Soolking & Lola Indigo & Rvfv,2024-12-10,2025-05-29,1,168,single,False,1,171,3,2,2025-01-01,22,False,False,1,2025-01-01,22
+caserio,yandel & saiko,Caserio,Yandel & SAIKO,2025-03-10,2025-03-10,41,1,single,True,1,1,0,1,2025-03-10,0,False,False,41,2025-03-10,0
+caída del cielo <3,rels b,caída del cielo <3,Rels B,2025-04-28,2025-05-01,38,2,album,True,13,4,2,2,2025-04-28,0,False,False,38,2025-04-28,0
+celine (with kidd keo),ghost killer track & kidd keo,Celine (with Kidd Keo),Ghost Killer Track & Kidd Keo,2025-10-03,2025-11-27,9,55,single,False,1,56,1,2,2025-10-18,15,False,True,9,2025-10-18,15
+cha cha cha,käärijä,Cha Cha Cha,Käärijä,2024-05-18,2024-05-20,37,3,single,False,1,3,0,1,2024-05-18,0,True,False,37,2024-05-18,0
+chapiadora.com,quevedo,CHAPIADORA.COM,Quevedo,2025-11-24,2025-11-27,8,4,album,False,18,4,0,1,2025-11-24,0,False,True,8,2025-11-24,0
+chihiro,billie eilish,CHIHIRO,Billie Eilish,2025-05-19,2025-05-25,39,7,album,False,10,7,0,1,2025-05-19,0,False,False,39,2025-05-19,0
+chorrito pa las animas,feid,CHORRITO PA LAS ANIMAS,Feid,2024-05-18,2024-06-14,32,28,single,True,6,28,0,1,2024-05-18,0,True,False,32,2024-05-18,0
+chula,jc reyes,CHULA,JC Reyes,2024-12-28,2025-01-20,49,8,single,False,1,24,16,2,2025-01-17,20,False,False,50,2024-12-28,0
+chulo pt.2,bad gyal & tokischa & young miko,Chulo pt.2,Bad Gyal & Tokischa & Young Miko,2024-06-24,2024-10-13,22,87,single,True,1,112,25,2,2024-06-28,4,False,False,22,2024-06-28,4
+cine 🚬,duki,Cine 🚬,Duki,2025-11-03,2025-11-03,42,1,album,True,15,1,0,1,2025-11-03,0,False,False,42,2025-11-03,0
+classy 101,feid,CLASSY 101,Feid,2024-12-02,2025-01-17,16,28,album,True,10,47,19,2,2024-12-02,0,False,False,16,2024-12-02,0
+classy 101,feid & young miko,Classy 101,Feid & Young Miko,2024-05-18,2024-12-01,7,183,single,True,1,198,15,2,2024-05-18,0,True,False,7,2024-05-18,0
+clavaito,chanel & abraham mateo,Clavaito,Chanel & Abraham Mateo,2024-05-18,2025-01-04,6,153,single,False,1,232,79,2,2024-06-02,15,True,False,6,2024-06-02,15
+coco chanel,eladio carrion,Coco Chanel,Eladio Carrion,2024-05-18,2024-09-29,16,127,album,True,18,135,8,3,2024-05-24,6,True,False,16,2024-05-24,6
+coco loco,maluma,COCO LOCO,Maluma,2024-07-01,2024-11-26,9,113,album,False,25,149,36,3,2024-08-06,36,False,False,9,2024-08-06,36
+cohete,shakira,Cohete,Shakira,2025-03-24,2025-03-30,21,6,album,False,17,7,1,1,2025-03-24,0,False,False,21,2025-03-24,0
+colmillo,tainy,COLMILLO,Tainy,2024-10-19,2024-11-14,18,9,album,True,20,27,18,2,2024-11-10,22,False,False,39,2024-10-20,1
+columbia,quevedo,Columbia,Quevedo,2024-07-08,2025-11-02,1,463,single,False,1,483,20,3,2024-07-09,1,False,False,1,2024-07-09,1
+cometa halley,saiko,COMETA HALLEY,SAIKO,2025-04-28,2025-05-05,24,8,album,True,16,8,0,1,2025-04-28,0,False,False,24,2025-04-28,0
+committed,rauw alejandro,Committed,Rauw Alejandro,2025-11-17,2025-11-17,29,1,album,True,18,1,0,1,2025-11-17,0,False,False,29,2025-11-17,0
+como camarón,estopa,Como Camarón,Estopa,2024-11-29,2025-02-21,32,35,album,False,12,85,50,4,2025-01-03,35,False,False,49,2024-11-29,0
+como suenan las estrellas,saiko,COMO SUENAN LAS ESTRELLAS,SAIKO,2025-04-28,2025-05-19,24,22,album,False,16,22,0,1,2025-04-30,2,False,False,24,2025-04-30,2
+competencia,myke towers,COMPETENCIA,Myke Towers,2025-08-24,2025-08-25,19,2,album,True,20,2,0,1,2025-08-24,0,False,False,19,2025-08-24,0
+comuna 3,jc reyes & the rude boyz,COMUNA 3,JC Reyes & The Rude Boyz,2025-05-16,2025-05-17,38,2,single,False,1,2,0,1,2025-05-17,1,False,False,38,2025-05-17,1
+comuna 3,jc reyes & the rudeboyz,COMUNA 3,JC Reyes & The Rudeboyz,2025-05-18,2025-09-17,12,120,single,False,1,123,3,2,2025-06-05,18,False,False,12,2025-06-05,18
+conexión,cano,Conexión,Cano,2025-10-27,2025-11-14,27,14,album,False,10,19,5,2,2025-10-27,0,False,False,27,2025-10-27,0
+conexión,cano & jc reyes,Conexión,Cano & JC Reyes,2025-10-25,2025-10-26,40,2,single,False,1,2,0,1,2025-10-26,1,False,False,40,2025-10-26,1
+constelación,duki,Constelación,Duki,2025-11-03,2025-11-10,26,8,album,False,15,8,0,1,2025-11-03,0,False,False,26,2025-11-03,0
+constelación,duki & lia kali,Constelación,Duki & Lia Kali,2025-11-01,2025-11-02,29,2,single,False,1,2,0,1,2025-11-01,0,False,False,29,2025-11-01,0
+contigo (with tiësto),karol g & tiësto,CONTIGO (with Tiësto),KAROL G & Tiësto,2025-02-17,2025-03-24,13,35,single,False,1,36,1,1,2025-02-18,1,False,False,13,2025-02-18,1
+copa vacía,shakira & manuel turizo,Copa Vacía,Shakira & Manuel Turizo,2024-07-02,2024-07-28,16,27,single,False,1,27,0,1,2024-07-02,0,False,False,16,2024-07-02,0
+corazón roto - remix,brray & jhayco & ryan castro,Corazón Roto - Remix,Brray & Jhayco & Ryan Castro,2024-08-10,2024-09-13,26,33,single,True,1,35,2,2,2024-09-09,30,False,False,32,2024-08-23,13
+corazón roto pt. 3,brray & anuel aa & chencho corleone,Corazón Roto pt. 3,Brray & Anuel AA & Chencho Corleone,2024-09-13,2025-02-04,21,104,single,True,1,145,41,6,2024-09-27,14,False,False,21,2024-09-27,14
+corazón vacío,maria becerra,CORAZÓN VACÍO,Maria Becerra,2024-07-05,2024-10-13,19,101,single,False,1,101,0,1,2024-07-19,14,False,False,19,2024-07-19,14
+corleone,saiko,CORLEONE,Saiko,2024-12-24,2025-01-15,21,20,album,False,7,23,3,2,2024-12-24,0,False,False,21,2024-12-24,0
+corleone,saiko & yandel,CORLEONE,Saiko & Yandel,2024-12-17,2024-12-23,16,7,single,False,1,7,0,1,2024-12-21,4,False,False,16,2024-12-21,4
+cosa nuestra,rauw alejandro,Cosa Nuestra,Rauw Alejandro,2025-11-17,2025-11-18,16,2,album,True,18,2,0,1,2025-11-17,0,False,False,16,2025-11-17,0
+cosas pendientes,maluma,Cosas Pendientes,Maluma,2025-11-24,2025-11-27,37,2,single,False,1,4,2,2,2025-11-27,3,False,True,48,2025-11-24,0
+cosas que no te dije,saiko,COSAS QUE NO TE DIJE,Saiko,2024-08-16,2025-04-27,7,253,single,False,1,255,2,1,2024-12-12,118,False,False,7,2024-12-12,118
+cosmeticos,myke towers,COSMETICOS,Myke Towers,2024-11-25,2024-11-29,33,2,album,True,23,5,3,2,2024-11-25,0,False,False,33,2024-11-25,0
+cruel summer,taylor swift,Cruel Summer,Taylor Swift,2025-06-01,2025-06-01,39,1,album,False,18,1,0,1,2025-06-01,0,False,False,39,2025-06-01,0
+crush,sky rompiendo & dei v,CRUSH,Sky Rompiendo & Dei V,2025-04-07,2025-08-23,15,137,single,False,1,139,2,1,2025-04-27,20,False,False,15,2025-04-27,20
+cuando te vi | crossover #5,big one & maria becerra & trueno,Cuando Te Vi | CROSSOVER #5,Big One & Maria Becerra & Trueno,2025-07-05,2025-10-28,11,114,single,True,1,116,2,1,2025-08-14,40,False,False,11,2025-08-14,40
+cupido,engel montaz & kuv507 & latinnites music,Cupido,Engel Montaz & Kuv507 & Latinnites Music,2025-04-18,2025-06-05,22,15,single,False,1,49,34,4,2025-04-23,5,False,False,22,2025-04-23,5
+cupido,tini,Cupido,TINI,2024-05-18,2024-09-12,17,105,album,False,14,118,13,2,2024-05-19,1,True,False,17,2024-05-19,1
+cybertruck,bad bunny,CYBERTRUCK,Bad Bunny,2024-10-14,2024-10-21,8,8,album,True,22,8,0,1,2024-10-14,0,False,False,8,2024-10-14,0
+cómo te atreves,morat,Cómo Te Atreves,Morat,2025-03-02,2025-03-02,45,1,album,False,12,1,0,1,2025-03-02,0,False,False,45,2025-03-02,0
+córcega,mora,CÓRCEGA,Mora,2024-08-30,2024-09-02,17,4,album,True,15,4,0,1,2024-08-30,0,False,False,17,2024-08-30,0
+cúrame,rauw alejandro,Cúrame,Rauw Alejandro,2025-08-01,2025-08-16,41,15,album,True,14,16,1,1,2025-08-10,9,False,False,41,2025-08-10,9
+dararí,aitana,Dararí,Aitana,2024-09-24,2024-09-29,13,6,album,False,15,6,0,1,2024-09-24,0,False,False,13,2024-09-24,0
+de plastilina,lola indigo & pepe y vizio,DE PLASTILINA,Lola Indigo & Pepe y Vizio,2024-10-21,2024-10-22,40,2,single,False,1,2,0,1,2024-10-21,0,False,False,40,2024-10-21,0
+degenere 👑 (feat. benny blanco),myke towers,DEGENERE 👑 (feat. benny blanco),Myke Towers,2025-10-20,2025-11-27,1,39,album,True,30,39,0,1,2025-10-25,5,False,True,1,2025-10-25,5
+demo #5: nostalgia - spanglish version,flowgpt,DEMO #5: nostalgIA - Spanglish Version,FlowGPT,2024-11-08,2024-11-09,12,2,single,True,1,2,0,1,2024-11-09,1,False,False,12,2024-11-09,1
+deportivo,blessd & anuel aa,DEPORTIVO,Blessd & Anuel AA,2025-11-16,2025-11-23,35,4,single,True,1,8,4,2,2025-11-23,7,False,False,50,2025-11-16,0
+desataaa,ovy on the drums & myke towers & saiko,DESATAAA,Ovy On The Drums & Myke Towers & SAIKO,2025-03-17,2025-07-09,6,113,single,True,1,115,2,2,2025-03-21,4,False,False,6,2025-03-21,4
+despechá,rosalía,DESPECHÁ,ROSALÍA,2024-05-22,2025-01-02,39,51,album,True,24,226,175,9,2024-06-12,21,False,False,43,2024-05-22,0
+después de la 1,cris mj & floyymenor,Después De La 1,Cris Mj & FloyyMenor,2025-09-19,2025-11-23,11,63,single,True,2,66,3,4,2025-09-27,8,False,False,11,2025-09-27,8
+desquite,feid,DESQUITE,Feid,2024-12-02,2024-12-02,39,1,album,False,10,1,0,1,2024-12-02,0,False,False,39,2024-12-02,0
+detrás del dj,rels b,Detrás del DJ,Rels B,2025-04-28,2025-04-28,39,1,album,True,13,1,0,1,2025-04-28,0,False,False,39,2025-04-28,0
+diabla,los diozes,DIABLA,Los Diozes,2025-10-27,2025-11-20,17,25,album,True,8,25,0,1,2025-11-03,7,False,False,17,2025-11-03,7
+diablita (feat. yovngchimi),myke towers,DIABLITA (feat. YOVNGCHIMI),Myke Towers,2025-08-24,2025-09-04,34,9,album,True,20,12,3,2,2025-08-24,0,False,False,34,2025-08-24,0
+diabólica,cris mj,Diabólica,Cris Mj,2025-03-13,2025-08-19,14,156,album,True,17,160,4,1,2025-03-23,10,False,False,14,2025-03-23,10
+diamonds,mora,DIAMONDS,Mora,2024-08-30,2024-09-02,18,4,album,True,15,4,0,1,2024-08-30,0,False,False,18,2024-08-30,0
+dicelo,lianet rivero & lia & gatillo,Dicelo,Lianet Rivero & Lia & Gatillo,2024-10-20,2024-10-23,24,4,single,False,1,4,0,1,2024-10-21,1,False,False,24,2024-10-21,1
+die with a smile,lady gaga & bruno mars,Die With A Smile,Lady Gaga & Bruno Mars,2025-08-31,2025-11-23,29,48,single,False,1,85,37,8,2025-11-15,76,False,False,50,2025-08-31,0
+diluvio,rauw alejandro,DILUVIO,Rauw Alejandro,2024-10-21,2025-10-14,3,188,album,True,14,359,171,2,2024-11-16,26,False,False,3,2024-11-16,26
+dinero y fama (feat. omar montes),myke towers,DINERO y FAMA (feat. Omar Montes),Myke Towers,2025-08-24,2025-08-24,40,1,album,True,20,1,0,1,2025-08-24,0,False,False,40,2025-08-24,0
+dios #1,cruz cafuné,Dios #1,Cruz Cafuné,2024-05-28,2024-05-28,43,1,album,True,23,1,0,1,2024-05-28,0,False,False,43,2024-05-28,0
+do it 4 th€ gram,cruz cafuné,do it 4 th€ gram,Cruz Cafuné,2025-07-21,2025-07-21,34,1,single,True,6,1,0,1,2025-07-21,0,False,False,34,2025-07-21,0
+doblexxó,j balvin,Doblexxó,J Balvin,2025-08-10,2025-08-23,33,12,album,True,15,14,2,2,2025-08-10,0,False,False,33,2025-08-10,0
+don't lie,duki,don't liE,Duki,2024-06-25,2024-06-29,44,5,album,False,14,5,0,1,2024-06-28,3,False,False,44,2024-06-28,3
+donde se aprende a querer?,mora,DONDE SE APRENDE A QUERER?,Mora,2024-08-30,2025-02-17,3,152,album,False,15,172,20,7,2024-08-30,0,False,False,3,2024-08-30,0
+dubai,trueno & beny jr,DUBAI,Trueno & Beny Jr,2024-06-15,2024-06-22,47,8,single,False,1,8,0,1,2024-06-17,2,False,False,47,2024-06-17,2
+duro,quevedo,DURO,Quevedo,2025-11-02,2025-11-27,1,26,album,False,18,26,0,1,2025-11-02,0,False,True,1,2025-11-02,0
+duro de verdad pt.2,los sufridos,Duro De Verdad pt.2,Los Sufridos,2025-09-20,2025-09-20,39,1,single,False,1,1,0,1,2025-09-20,0,False,False,39,2025-09-20,0
+duro de verdad pt.2,los sufridos & bad gyal,Duro De Verdad pt.2,Los Sufridos & Bad Gyal,2025-09-21,2025-11-27,1,68,single,False,1,68,0,1,2025-09-27,6,False,True,1,2025-09-27,6
+déjame entrar,rauw alejandro,Déjame Entrar,Rauw Alejandro,2025-07-25,2025-11-23,17,9,album,True,18,122,113,3,2025-11-17,115,False,False,47,2025-07-25,0
+el chacal,mora,EL CHACAL,Mora,2024-08-30,2024-09-02,10,4,album,True,15,4,0,1,2024-08-30,0,False,False,10,2024-08-30,0
+el cielo,sky rompiendo & feid & myke towers,El Cielo,Sky Rompiendo & Feid & Myke Towers,2024-06-04,2025-03-09,2,271,single,True,1,279,8,5,2024-06-10,6,False,False,2,2024-06-10,6
+el condenao,lola indigo,EL CONDENAO,Lola Indigo,2024-12-17,2025-01-04,35,12,album,False,7,19,7,4,2024-12-22,5,False,False,49,2024-12-17,0
+el conjuntito,el bobe & omar montes,El Conjuntito,El Bobe & Omar Montes,2025-03-24,2025-09-23,1,180,single,False,1,184,4,2,2025-04-09,16,False,False,1,2025-04-09,16
+el destello,juanjo bona & martin urrutia,El Destello,Juanjo Bona & Martin Urrutia,2025-10-06,2025-10-06,36,1,single,False,1,1,0,1,2025-10-06,0,False,False,36,2025-10-06,0
+el estribillo,quevedo,EL ESTRIBILLO,Quevedo,2025-11-24,2025-11-27,16,4,album,False,18,4,0,1,2025-11-24,0,False,True,16,2025-11-24,0
+el fin del mundo,la la love you,El Fin del Mundo,La La Love You,2025-06-03,2025-11-23,37,98,album,False,18,174,76,14,2025-08-25,83,False,False,41,2025-06-04,1
+el jefe,shakira & fuerza regida,El Jefe,Shakira & Fuerza Regida,2024-09-24,2024-10-03,31,10,single,True,1,10,0,1,2024-09-27,3,False,False,31,2024-09-27,3
+el malo,eladio carrion,El Malo,Eladio Carrion,2025-01-21,2025-02-17,20,27,album,False,17,28,1,2,2025-01-25,4,False,False,20,2025-01-25,4
+el mambo,kiko rivera,El Mambo,Kiko Rivera,2024-10-04,2025-03-01,2,145,single,False,1,149,4,2,2024-10-13,9,False,False,2,2024-10-13,9
+el merengue,marshmello,El Merengue,Marshmello,2024-11-04,2025-11-18,19,317,album,False,11,380,63,13,2024-11-05,1,False,False,19,2024-11-05,1
+el merengue,marshmello & manuel turizo,El Merengue,Marshmello & Manuel Turizo,2024-05-18,2024-11-03,5,170,single,False,1,170,0,1,2024-05-18,0,True,False,5,2024-05-18,0
+el pantalon - rumbas,omar montes,EL PANTALON - RUMBAS,Omar Montes,2025-06-02,2025-09-12,2,101,album,False,11,103,2,1,2025-06-16,14,False,False,2,2025-06-16,14
+el patio,pepe y vizio & delaossa & kiddo,El Patio,Pepe y Vizio & Delaossa & KIDDO,2025-02-22,2025-08-27,8,152,single,False,1,187,35,5,2025-03-07,13,False,False,8,2025-03-07,13
+el tonto,lola indigo,EL TONTO,Lola Indigo,2024-05-18,2025-01-10,2,205,album,False,11,238,33,5,2024-05-18,0,True,False,2,2024-05-18,0
+ella baila sola,eslabon armado,Ella Baila Sola,Eslabon Armado,2024-05-18,2024-08-09,9,84,album,False,16,84,0,1,2024-06-03,16,True,False,9,2024-06-03,16
+empelotica,lenny tavárez & feid,EMPELOTICA,Lenny Tavárez & Feid,2025-02-25,2025-04-06,16,36,single,True,1,41,5,3,2025-03-03,6,False,False,33,2025-02-25,0
+emrata,myke towers,EMRATA,Myke Towers,2024-11-25,2024-11-25,46,1,album,True,23,1,0,1,2024-11-25,0,False,False,46,2024-11-25,0
+en to lao,haze & jhayco,En To Lao,Haze & Jhayco,2024-06-15,2024-07-01,45,11,single,True,1,17,6,3,2024-07-01,16,False,False,47,2024-06-15,0
+enamórate,nicki nicole & bad gyal,Enamórate,Nicki Nicole & Bad Gyal,2024-11-16,2024-12-01,31,15,single,False,1,16,1,2,2024-11-18,2,False,False,38,2024-11-16,0
+eroticaaaaaaa,gonzy,EROTICAAAAAAA,Gonzy,2025-10-13,2025-10-31,38,15,album,True,18,19,4,3,2025-10-25,12,False,False,49,2025-10-13,0
+es un secreto,plan b,Es un Secreto,Plan B,2025-06-22,2025-07-04,37,13,album,False,15,13,0,1,2025-06-30,8,False,False,37,2025-06-30,8
+escriurem,chiara oliver & martin urrutia,Escriurem,Chiara Oliver & Martin Urrutia,2025-01-25,2025-01-25,47,1,single,False,1,1,0,1,2025-01-25,0,False,False,47,2025-01-25,0
+eskeleto,saiko,ESKELETO,SAIKO,2025-04-28,2025-10-23,11,113,album,True,16,179,66,4,2025-05-02,4,False,False,11,2025-05-02,4
+espectacular,sky rompiendo & rauw alejandro,Espectacular,Sky Rompiendo & Rauw Alejandro,2025-04-25,2025-04-27,49,2,single,False,1,3,1,2,2025-04-25,0,False,False,49,2025-04-25,0
+espresso,sabrina carpenter,Espresso,Sabrina Carpenter,2025-06-09,2025-07-03,39,24,single,True,1,25,1,2,2025-06-28,19,False,False,42,2025-06-12,3
+espresso martini,rauw alejandro,Espresso Martini,Rauw Alejandro,2025-11-17,2025-11-21,21,5,album,True,18,5,0,1,2025-11-17,0,False,False,21,2025-11-17,0
+europapa,joost,Europapa,Joost,2025-05-14,2025-05-18,33,5,single,False,2,5,0,1,2025-05-15,1,False,False,33,2025-05-15,1
+eva longoria,ozuna,Eva Longoria,Ozuna,2024-08-12,2024-11-24,8,90,album,False,7,105,15,3,2024-08-29,17,False,False,8,2024-08-29,17
+extasisssssss,saiko,Extasisssssss,Saiko,2024-12-20,2025-01-31,18,43,album,False,7,43,0,1,2024-12-22,2,False,False,18,2024-12-22,2
+falsos recuerdos,abraham mateo & omar montes,Falsos Recuerdos,Abraham Mateo & Omar Montes,2025-02-01,2025-02-25,32,24,single,False,1,25,1,2,2025-02-08,7,False,False,50,2025-02-01,0
+fantasías,mora,FANTASÍAS,Mora,2024-08-30,2024-09-04,9,6,album,True,15,6,0,1,2024-08-30,0,False,False,9,2024-08-30,0
+fardos,jc reyes & de la ghetto,FARDOS,JC Reyes & De La Ghetto,2025-02-18,2025-07-30,1,160,single,False,1,163,3,1,2025-02-22,4,False,False,1,2025-02-22,4
+fecha,feid & yandel,Fecha,Feid & Yandel,2025-04-14,2025-04-18,39,5,single,True,5,5,0,1,2025-04-17,3,False,False,39,2025-04-17,3
+fecha - intro extended,renzo pianciola,Fecha - Intro Extended,Renzo Pianciola,2025-04-19,2025-04-20,46,2,single,False,1,2,0,1,2025-04-20,1,False,False,46,2025-04-20,1
+feliz navidad,josé feliciano,Feliz Navidad,José Feliciano,2024-12-25,2024-12-27,5,3,album,False,15,3,0,1,2024-12-25,0,False,False,5,2024-12-25,0
+feliz navidad,saiko,Feliz Navidad,Saiko,2024-12-19,2024-12-20,36,2,single,False,3,2,0,1,2024-12-19,0,False,False,36,2024-12-19,0
+ferxxo 151,feid,FERXXO 151,Feid,2024-09-30,2024-11-06,17,20,album,False,16,38,18,2,2024-09-30,0,False,False,17,2024-09-30,0
+ferxxo 151,feid & icon,FERXXO 151,Feid & ICON,2024-08-26,2024-09-29,9,35,single,False,1,35,0,1,2024-08-26,0,False,False,9,2024-08-26,0
+ferxxo 30,feid,FERXXO 30,Feid,2024-10-07,2024-10-13,32,2,album,False,16,7,5,2,2024-10-07,0,False,False,32,2024-10-07,0
+ferxxo edition,feid,FERXXO EDITION,Feid,2024-09-30,2024-10-01,43,2,album,False,15,2,0,1,2024-09-30,0,False,False,43,2024-09-30,0
+figo,dellafuente & morad,Figo,DELLAFUENTE & Morad,2024-12-02,2024-12-02,44,1,single,False,6,1,0,1,2024-12-02,0,False,False,44,2024-12-02,0
+fina,bad bunny,FINA,Bad Bunny,2024-10-14,2024-11-18,4,36,album,True,22,36,0,1,2024-10-14,0,False,False,4,2024-10-14,0
+finales de agosto,saiko,FINALES DE AGOSTO,SAIKO,2025-04-28,2025-04-29,40,2,album,False,16,2,0,1,2025-04-28,0,False,False,40,2025-04-28,0
+flow violento - remix,yosoyplex & ruven,Flow Violento - Remix,YoSoyPlex & Ruven,2024-05-30,2024-06-20,46,8,single,True,1,22,14,3,2024-06-06,7,False,False,47,2024-05-30,0
+flowers,miley cyrus,Flowers,Miley Cyrus,2024-05-18,2024-06-06,44,18,album,False,13,20,2,2,2024-05-19,1,True,False,44,2024-05-19,1
+"flowhot (feat. arcángel, de la ghetto, randy)",the academy: segunda misión & sech & dalex,"FLOWHOT (feat. Arcángel, De La Ghetto, Randy)",The Academy: Segunda Misión & Sech & Dalex,2025-03-31,2025-03-31,32,1,album,True,9,1,0,1,2025-03-31,0,False,False,32,2025-03-31,0
+fortnight (feat. post malone),taylor swift,Fortnight (feat. Post Malone),Taylor Swift,2025-04-21,2025-04-30,24,9,album,False,16,10,1,2,2025-04-24,3,False,False,24,2025-04-24,3
+fosforito,dellafuente,Fosforito,DELLAFUENTE,2025-06-16,2025-06-16,46,1,album,False,10,1,0,1,2025-06-16,0,False,False,46,2025-06-16,0
+friki,gonzy,FRIKI,Gonzy,2025-05-10,2025-11-26,8,198,album,True,18,201,3,2,2025-06-26,47,False,False,8,2025-06-26,47
+fruto,bizarrap & milo j,Fruto,Bizarrap & Milo j,2024-10-07,2024-11-11,12,36,single,False,5,36,0,1,2024-10-12,5,False,False,12,2024-10-12,5
+frío,myke towers,FRÍO,Myke Towers,2025-08-24,2025-08-24,36,1,album,True,20,1,0,1,2025-08-24,0,False,False,36,2025-08-24,0
+"fé, cojones y paciencia",eladio carrion,"Fé, Cojones y Paciencia",Eladio Carrion,2025-01-21,2025-01-21,38,1,album,True,17,1,0,1,2025-01-21,0,False,False,38,2025-01-21,0
+g-wa,zheus,G-WA,ZHEUS,2025-11-21,2025-11-27,39,5,single,True,1,7,2,3,2025-11-23,2,False,True,39,2025-11-23,2
+gangster (pqfnedg),ovy on the drums & quevedo & yandel,GANGSTER (PQFNEDG),Ovy On The Drums & Quevedo & Yandel,2024-10-21,2024-11-01,15,12,single,True,1,12,0,1,2024-10-21,0,False,False,15,2024-10-21,0
+gangsters y pistolas,feid,GANGSTERS Y PISTOLAS,Feid,2024-09-30,2024-10-01,25,2,album,False,15,2,0,1,2024-09-30,0,False,False,25,2024-09-30,0
+gata only,floyymenor,Gata Only,FloyyMenor,2025-08-10,2025-10-14,15,55,album,True,7,66,11,4,2025-08-10,0,False,False,15,2025-08-10,0
+gata only,floyymenor & cris mj,Gata Only,FloyyMenor & Cris Mj,2025-02-24,2025-08-09,2,162,single,True,1,167,5,2,2025-04-06,41,False,False,2,2025-04-06,41
+gata only (mashup),dj agus lima,Gata Only (Mashup),Dj Agus Lima,2025-05-09,2025-05-10,5,2,album,False,9,2,0,1,2025-05-09,0,False,False,5,2025-05-09,0
+gatita gangster,karol g,GATITA GANGSTER,KAROL G,2024-09-13,2024-11-24,30,63,album,True,9,73,10,2,2024-10-12,29,False,False,30,2024-10-12,29
+gatitas sandungueras vol.1,alvaro diaz,GATITAS SANDUNGUERAS VOL.1,Alvaro Diaz,2025-05-19,2025-07-03,12,46,album,False,20,46,0,1,2025-06-12,24,False,False,12,2025-06-12,24
+gitana (feat. bryartz),pablo chill-e,Gitana (feat. Bryartz),Pablo Chill-E,2025-05-03,2025-06-17,15,45,album,True,8,46,1,2,2025-05-17,14,False,False,15,2025-05-17,14
+goteras,omar montes & jc reyes,Goteras,Omar Montes & JC Reyes,2025-06-30,2025-11-23,1,145,single,False,1,147,2,1,2025-07-08,8,False,False,1,2025-07-08,8
+gracias por nada,bad bunny,GRACIAS POR NADA,Bad Bunny,2024-10-14,2024-10-20,11,7,album,True,22,7,0,1,2024-10-14,0,False,False,11,2024-10-14,0
+gran día,mau y ricky & guaynaa,Gran Día,Mau y Ricky & Guaynaa,2025-05-16,2025-06-01,17,13,single,False,1,17,4,3,2025-05-31,15,False,False,47,2025-05-17,1
+gran vía,quevedo,GRAN VÍA,Quevedo,2025-11-24,2025-11-27,1,4,album,False,18,4,0,1,2025-11-24,0,False,True,1,2025-11-24,0
+guay,ozuna & bad gyal,Guay,Ozuna & Bad Gyal,2025-04-21,2025-07-20,7,90,single,False,1,91,1,1,2025-04-27,6,False,False,7,2025-04-27,6
+hablame claro,yandel,HABLAME CLARO,Yandel,2025-10-13,2025-10-13,47,1,album,True,19,1,0,1,2025-10-13,0,False,False,47,2025-10-13,0
+hablame claro,yandel & feid,Hablame Claro,Yandel & Feid,2025-09-16,2025-10-12,5,27,single,True,1,27,0,1,2025-09-25,9,False,False,5,2025-09-25,9
+hala madrid ...y nada más,real madrid,Hala Madrid ...y nada más,Real Madrid,2025-06-03,2025-06-03,43,1,single,False,1,1,0,1,2025-06-03,0,False,False,43,2025-06-03,0
+halo,quevedo,HALO,Quevedo,2025-11-24,2025-11-27,7,4,album,False,18,4,0,1,2025-11-24,0,False,True,7,2025-11-24,0
+hardaway,duki,Hardaway,Duki,2025-11-03,2025-11-03,35,1,album,True,15,1,0,1,2025-11-03,0,False,False,35,2025-11-03,0
+hasta olvidarte,mau y ricky,Hasta Olvidarte,Mau y Ricky,2025-06-03,2025-06-08,23,6,album,False,15,6,0,1,2025-06-04,1,False,False,23,2025-06-04,1
+hay lupita,lomiiel,HAY LUPITA,Lomiiel,2025-07-12,2025-10-29,2,103,single,False,1,110,7,3,2025-08-04,23,False,False,2,2025-08-04,23
+hay lupita,megan koffe,Hay Lupita,Megan Koffe,2025-06-28,2025-07-10,30,13,single,True,1,13,0,1,2025-07-08,10,False,False,30,2025-07-08,10
+haz lo que quieras conmigo,walls,haz lo que quieras conmigo,Walls,2025-09-22,2025-10-19,33,20,single,False,1,28,8,3,2025-09-22,0,False,False,33,2025-09-22,0
+headshot,anuel aa,Headshot,Anuel AA,2025-09-22,2025-09-22,29,1,single,True,1,1,0,1,2025-09-22,0,False,False,29,2025-09-22,0
+heavy is the crown,linkin park,Heavy Is the Crown,Linkin Park,2025-09-27,2025-09-27,49,1,single,False,2,1,0,1,2025-09-27,0,False,False,49,2025-09-27,0
+heavyweight,eladio carrion,Heavyweight,Eladio Carrion,2025-05-04,2025-05-04,49,1,single,True,5,1,0,1,2025-05-04,0,False,False,49,2025-05-04,0
+hermosa casualidad,sen senra & aitana,Hermosa Casualidad,Sen Senra & Aitana,2025-06-02,2025-06-09,39,6,single,False,1,8,2,2,2025-06-06,4,False,False,43,2025-06-02,0
+hey bb,saiko,HEY BB,SAIKO,2025-04-28,2025-05-02,26,5,album,False,16,5,0,1,2025-04-28,0,False,False,26,2025-04-28,0
+hey lil mama,eladio carrion,Hey Lil Mama,Eladio Carrion,2025-01-21,2025-04-13,8,78,album,False,17,83,5,3,2025-01-25,4,False,False,8,2025-01-25,4
+hey mor,ozuna,Hey Mor,Ozuna,2024-05-18,2024-09-12,30,97,album,False,18,118,21,3,2024-05-18,0,True,False,30,2024-05-18,0
+hibiki,bad bunny,HIBIKI,Bad Bunny,2024-10-14,2024-12-01,2,49,album,True,22,49,0,1,2024-10-14,0,False,False,2,2024-10-14,0
+historias por contar,operación triunfo 2023,Historias Por Contar,Operación Triunfo 2023,2025-02-22,2025-02-24,28,3,single,False,1,3,0,1,2025-02-22,0,False,False,28,2025-02-22,0
+holanda,jhayco,Holanda,Jhayco,2024-08-04,2025-03-12,3,219,single,True,1,221,2,3,2024-08-16,12,False,False,3,2024-08-16,12
+holly jolly christmas,michael bublé,Holly Jolly Christmas,Michael Bublé,2024-12-25,2024-12-27,24,3,album,False,16,3,0,1,2024-12-25,0,False,False,24,2024-12-25,0
+houdini,dua lipa,Houdini,Dua Lipa,2024-11-11,2024-11-17,23,7,single,False,1,7,0,1,2024-11-11,0,False,False,23,2024-11-11,0
+hoy,valentino merlo & the la planta,Hoy,Valentino Merlo & The La Planta,2025-09-29,2025-10-04,13,6,single,False,1,6,0,1,2025-10-02,3,False,False,13,2025-10-02,3
+i can do it with a broken heart,taylor swift,I Can Do It With a Broken Heart,Taylor Swift,2025-04-23,2025-04-23,50,1,album,True,16,1,0,1,2025-04-23,0,False,False,50,2025-04-23,0
+i like the way you kiss me,artemas,i like the way you kiss me,Artemas,2025-04-04,2025-05-02,19,21,single,False,1,29,8,3,2025-04-18,14,False,False,48,2025-04-04,0
+ia,clarent,IA,Clarent,2025-10-20,2025-11-12,1,24,single,True,1,24,0,1,2025-11-09,20,False,False,1,2025-11-09,20
+ia,clarent & mora,IA,Clarent & Mora,2025-11-13,2025-11-27,1,15,single,True,1,15,0,1,2025-11-13,0,False,True,1,2025-11-13,0
+iguales,quevedo,IGUALES,Quevedo,2025-11-24,2025-11-27,3,4,album,False,18,4,0,1,2025-11-24,0,False,True,3,2025-11-24,0
+il capo,rauw alejandro,IL Capo,Rauw Alejandro,2025-11-17,2025-11-17,38,1,album,True,18,1,0,1,2025-11-17,0,False,False,38,2025-11-17,0
+imagínate,danny ocean & kapo,Imagínate,Danny Ocean & Kapo,2025-11-15,2025-11-27,15,13,single,True,1,13,0,1,2025-11-23,8,False,True,15,2025-11-23,8
+imperio,duki,Imperio,Duki,2025-11-03,2025-11-23,15,19,album,True,15,21,2,2,2025-11-09,6,False,False,15,2025-11-09,6
+it's beginning to look a lot like christmas,michael bublé,It's Beginning to Look a Lot like Christmas,Michael Bublé,2024-12-25,2024-12-27,16,3,album,False,21,3,0,1,2024-12-25,0,False,False,16,2024-12-25,0
+it's the most wonderful time of the year,andy williams,It's the Most Wonderful Time of the Year,Andy Williams,2024-12-25,2024-12-27,12,3,album,False,12,3,0,1,2024-12-25,0,False,False,12,2024-12-25,0
+"japoni (feat. camin, moncho chavea, jthyago & samueliyo baby)",oscar el ruso & samuel g & omar montes,"Japoni (feat. Camin, Moncho Chavea, Jthyago & Samueliyo Baby)",Oscar el Ruso & Samuel G & Omar Montes,2025-01-18,2025-06-17,26,72,single,False,1,151,79,8,2025-02-25,38,False,False,43,2025-01-20,2
+jingle bell rock,bobby helms,Jingle Bell Rock,Bobby Helms,2024-12-25,2024-12-27,10,3,single,False,2,3,0,1,2024-12-25,0,False,False,10,2024-12-25,0
+k-pop,travis scott & bad bunny & the weeknd,K-POP,Travis Scott & Bad Bunny & The Weeknd,2024-07-23,2024-08-05,21,14,single,True,1,14,0,1,2024-07-23,0,False,False,21,2024-07-23,0
+kassandra,quevedo,KASSANDRA,Quevedo,2025-11-24,2025-11-27,2,4,album,False,18,4,0,1,2025-11-24,0,False,True,2,2025-11-24,0
+khé?,rauw alejandro,Khé?,Rauw Alejandro,2025-11-17,2025-11-27,8,11,album,False,18,11,0,1,2025-11-23,6,False,True,8,2025-11-23,6
+ktm,jhayco & bryant myers & luar la l,KTM,Jhayco & Bryant Myers & Luar La L,2025-03-24,2025-03-28,16,4,single,True,1,5,1,1,2025-03-24,0,False,False,16,2025-03-24,0
+la 125,quevedo,LA 125,Quevedo,2025-11-24,2025-11-27,10,4,album,False,18,4,0,1,2025-11-24,0,False,True,10,2025-11-24,0
+la baby,brytiago,La Baby,Brytiago,2024-11-03,2024-12-02,3,16,single,True,1,30,14,6,2024-11-30,27,False,False,42,2024-11-03,0
+la baby,tainy,LA BABY,Tainy,2024-07-02,2024-07-12,25,11,album,False,19,11,0,1,2024-07-02,0,False,False,25,2024-07-02,0
+la bachata,manuel turizo,La Bachata,Manuel Turizo,2024-05-18,2025-11-19,11,538,album,False,15,551,13,3,2025-01-01,228,True,False,16,2024-05-29,11
+la bebe - remix,yng lvcas & peso pluma,La Bebe - Remix,Yng Lvcas & Peso Pluma,2024-05-18,2024-08-29,10,104,single,True,2,104,0,1,2024-06-01,14,True,False,10,2024-06-01,14
+la canción feliz del disco,eladio carrion,La Canción Feliz Del Disco,Eladio Carrion,2025-01-21,2025-01-24,13,4,album,True,17,4,0,1,2025-01-21,0,False,False,13,2025-01-21,0
+la capi,myke towers,LA CAPI,Myke Towers,2024-12-14,2025-09-25,13,233,album,True,23,286,53,6,2025-01-22,39,False,False,13,2025-01-22,39
+la falda,myke towers,LA FALDA,Myke Towers,2024-11-25,2025-11-23,1,359,album,True,23,364,5,2,2025-02-18,85,False,False,1,2025-02-18,85
+la fiesta,pedro capó,La Fiesta,Pedro Capó,2024-05-18,2024-06-27,30,17,album,False,10,41,24,4,2024-05-20,2,True,False,30,2024-05-20,2
+la gata bajo la lluvia,naiara,La Gata Bajo La Lluvia,Naiara,2025-01-25,2025-01-25,46,1,single,False,1,1,0,1,2025-01-25,0,False,False,46,2025-01-25,0
+la inocente,mora,LA INOCENTE,Mora,2024-05-30,2024-08-11,45,31,album,True,15,74,43,6,2024-06-21,22,False,False,48,2024-05-31,1
+la jumpa,arcángel,La Jumpa,Arcángel,2024-05-18,2024-06-23,36,37,album,True,18,37,0,1,2024-05-29,11,True,False,36,2024-05-29,11
+la marina sta morena,figa flawas,LA MARINA STA MORENA,Figa Flawas,2025-08-07,2025-10-15,19,69,single,False,1,70,1,1,2025-09-04,28,False,False,19,2025-09-04,28
+la nena,lyanno & rauw alejandro,LA NENA,Lyanno & Rauw Alejandro,2025-04-21,2025-05-25,25,27,single,True,1,35,8,2,2025-04-27,6,False,False,25,2025-04-27,6
+la noia,angelina mango,la noia,Angelina Mango,2025-05-14,2025-05-14,47,1,single,False,1,1,0,1,2025-05-14,0,False,False,47,2025-05-14,0
+la ranger (feat. myke towers),the academy: segunda misión & justin quiles & lenny tavárez,LA RANGER (feat. Myke Towers),The Academy: Segunda Misión & Justin Quiles & Lenny Tavárez,2025-03-31,2025-07-16,3,107,album,True,9,108,1,1,2025-04-11,11,False,False,3,2025-04-11,11
+la raíz d€l mal,cruz cafuné,la raíz d€l mal,Cruz Cafuné,2025-07-21,2025-07-26,42,4,single,True,6,6,2,2,2025-07-21,0,False,False,42,2025-07-21,0
+la reina,lola indigo,LA REINA,Lola Indigo,2025-06-16,2025-11-26,4,162,single,False,1,164,2,1,2025-06-20,4,False,False,4,2025-06-20,4
+la rijana,saiko,LA RIJANA,SAIKO,2025-04-28,2025-04-29,41,2,album,False,16,2,0,1,2025-04-28,0,False,False,41,2025-04-28,0
+la rizos [dime si le comento a la pura],las 2k & chardo chardemio & melody records international,La Rizos [Dime Si Le Comento a la Pura],Las 2K & Chardo Chardemio & Melody Records International,2025-08-25,2025-11-06,22,69,single,False,1,74,5,2,2025-09-15,21,False,False,22,2025-09-15,21
+la roja baila - himno oficial de la selección española,sergio ramos & niña pastori & redone,La roja baila - Himno oficial de la selección española,Sergio Ramos & Niña Pastori & RedOne,2025-07-15,2025-07-16,9,2,single,False,1,2,0,1,2025-07-15,0,False,False,9,2025-07-15,0
+la sevillana,omar montes,LA SEVILLANA,Omar Montes,2025-04-14,2025-05-04,3,21,single,False,1,21,0,1,2025-04-20,6,False,False,3,2025-04-20,6
+la sevillana - sevillanas,omar montes,LA SEVILLANA - SEVILLANAS,Omar Montes,2025-05-05,2025-07-03,8,60,album,False,11,60,0,1,2025-05-05,0,False,False,8,2025-05-05,0
+la torre picasso,arde bogotá,La Torre Picasso,Arde Bogotá,2025-09-15,2025-09-15,46,1,single,False,1,1,0,1,2025-09-15,0,False,False,46,2025-09-15,0
+la vida sin ti,rels b,La Vida Sin Ti,Rels B,2025-04-28,2025-06-29,8,63,album,False,13,63,0,1,2025-05-02,4,False,False,8,2025-05-02,4
+la vida sin ti,rels b & lia kali,La Vida Sin Ti,Rels B & Lia Kali,2025-04-25,2025-04-27,15,3,single,False,1,3,0,1,2025-04-25,0,False,False,15,2025-04-25,0
+la vuelta,feid,LA VUELTA,Feid,2024-12-02,2024-12-02,48,1,album,False,10,1,0,1,2024-12-02,0,False,False,48,2024-12-02,0
+la última,quevedo,LA ÚLTIMA,Quevedo,2025-02-03,2025-03-23,1,48,single,False,1,49,1,1,2025-02-03,0,False,False,1,2025-02-03,0
+la_original.mp3,emilia,La_Original.mp3,Emilia,2024-11-04,2025-06-03,10,202,album,False,13,212,10,3,2025-03-08,124,False,False,16,2024-11-10,6
+lady madrizzz,céro,lady madrizZz,céro,2024-11-03,2025-03-02,8,118,single,False,1,120,2,2,2024-11-16,13,False,False,47,2024-11-03,0
+laguna,mora,LAGUNA,Mora,2024-08-30,2024-09-02,11,4,album,True,15,4,0,1,2024-08-30,0,False,False,11,2024-08-30,0
+lala,myke towers,LALA,Myke Towers,2024-06-29,2025-09-24,1,310,album,True,23,453,143,2,2024-07-05,6,False,False,1,2024-07-05,6
+las babys,aitana,LAS BABYS,Aitana,2024-06-09,2024-08-29,4,82,single,True,1,82,0,1,2024-06-11,2,False,False,4,2024-06-11,2
+las bratz (remix),aissa & jc reyes & saiko,Las Bratz (Remix),Aissa & JC Reyes & Saiko,2024-05-18,2024-05-27,44,10,single,True,1,10,0,1,2024-05-20,2,True,False,44,2024-05-20,2
+last christmas - single version,wham!,Last Christmas - Single Version,Wham!,2024-12-23,2024-12-27,4,5,album,False,16,5,0,1,2024-12-25,2,False,False,4,2024-12-25,2
+latte (feat. maria becerra),the academy: segunda misión & sech & dalex,LATTE (feat. Maria Becerra),The Academy: Segunda Misión & Sech & Dalex,2025-03-31,2025-03-31,43,1,album,True,9,1,0,1,2025-03-31,0,False,False,43,2025-03-31,0
+let it snow! let it snow! let it snow!,dean martin,Let It Snow! Let It Snow! Let It Snow!,Dean Martin,2024-12-25,2024-12-27,15,3,album,False,12,3,0,1,2024-12-25,0,False,False,15,2024-12-25,0
+let it snow! let it snow! let it snow! (with the b. swanson quartet),frank sinatra,Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet),Frank Sinatra,2024-12-25,2024-12-25,33,1,album,False,14,1,0,1,2024-12-25,0,False,False,33,2024-12-25,0
+like i can (feat. aitana),sam smith & aitana,Like I Can (feat. Aitana),Sam Smith & Aitana,2025-08-10,2025-08-10,42,1,single,False,1,1,0,1,2025-08-10,0,False,False,42,2025-08-10,0
+lo que no ves de mí,juanjo bona,Lo que no ves de mí,Juanjo Bona,2025-04-18,2025-04-18,38,1,single,False,1,1,0,1,2025-04-18,0,False,False,38,2025-04-18,0
+lo que tiene,morad & beny jr & rvfv,Lo Que Tiene,Morad & Beny Jr & Rvfv,2025-03-10,2025-11-23,5,254,single,False,1,259,5,2,2025-03-13,3,False,False,5,2025-03-13,3
+lokita,mora,LOKITA,Mora,2024-08-30,2024-09-02,13,4,album,True,15,4,0,1,2024-08-30,0,False,False,13,2024-08-30,0
+lollipop,darell,Lollipop,Darell,2024-10-02,2025-01-17,1,105,album,True,18,108,3,2,2024-10-21,19,False,False,1,2024-10-21,19
+los del espacio,lit killah,Los del Espacio,LIT killah,2024-06-04,2025-02-16,2,257,single,False,1,258,1,2,2024-06-09,5,False,False,2,2024-06-09,5
+los días contados,quevedo,LOS DÍAS CONTADOS,Quevedo,2025-11-24,2025-11-27,4,4,album,False,18,4,0,1,2025-11-24,0,False,True,4,2025-11-24,0
+los pits,bad bunny,LOS PITS,Bad Bunny,2024-10-14,2024-10-20,20,7,album,True,22,7,0,1,2024-10-14,0,False,False,20,2024-10-14,0
+los ángeles,aitana,Los Ángeles,Aitana,2024-05-18,2024-08-05,20,80,single,False,1,80,0,1,2024-05-18,0,True,False,20,2024-05-18,0
+luces de tecno,feid,LUCES DE TECNO,Feid,2024-09-30,2025-02-03,7,124,album,False,16,127,3,2,2024-09-30,0,False,False,7,2024-09-30,0
+luchas mentales,eladio carrion,Luchas Mentales,Eladio Carrion,2025-01-21,2025-01-21,43,1,album,False,17,1,0,1,2025-01-21,0,False,False,43,2025-01-21,0
+luna,feid,LUNA,Feid,2024-12-02,2025-11-27,2,357,album,False,10,361,4,1,2025-01-11,40,False,True,2,2025-01-11,40
+luna,saiko,LUNA,SAIKO,2025-04-28,2025-05-09,9,12,album,False,16,12,0,1,2025-04-28,0,False,False,9,2025-04-28,0
+luna llena,beny jr,Luna llena,Beny Jr,2025-07-31,2025-11-27,4,119,album,False,13,120,1,1,2025-10-14,75,False,True,4,2025-10-14,75
+lunch,billie eilish,LUNCH,Billie Eilish,2025-05-19,2025-05-30,20,12,album,False,10,12,0,1,2025-05-25,6,False,False,20,2025-05-25,6
+m.a.i,milo j,M.A.I,Milo j,2025-01-17,2025-04-30,4,100,album,False,10,104,4,2,2025-01-31,14,False,False,4,2025-01-31,14
+ma meilleure ennemie (from the series arcane league of legends),stromae & pomme & arcane,Ma Meilleure Ennemie (from the series Arcane League of Legends),Stromae & Pomme & Arcane,2025-11-27,2025-11-27,38,1,single,False,1,1,0,1,2025-11-27,0,False,True,38,2025-11-27,0
+madrid city,ana mena,Madrid City,Ana Mena,2024-09-30,2025-04-15,13,181,single,False,1,198,17,2,2025-01-03,95,False,False,16,2024-09-30,0
+mal de amores,natos y waor & israel b,Mal de amores,Natos y Waor & Israel B,2025-02-11,2025-02-17,29,4,single,False,1,7,3,2,2025-02-15,4,False,False,45,2025-02-11,0
+mala suerte,lola indigo & dellafuente,MALA SUERTE,Lola Indigo & DELLAFUENTE,2024-09-03,2024-09-09,32,7,single,False,1,7,0,1,2024-09-06,3,False,False,32,2024-09-06,3
+malicia,dellafuente,Malicia,DELLAFUENTE,2025-06-16,2025-06-21,29,6,album,False,10,6,0,1,2025-06-16,0,False,False,29,2025-06-16,0
+mama's boy,eladio carrion,Mama's Boy,Eladio Carrion,2025-01-21,2025-01-21,34,1,album,False,17,1,0,1,2025-01-21,0,False,False,34,2025-01-21,0
+mamasota,manuel turizo & yandel,Mamasota,Manuel Turizo & Yandel,2025-03-15,2025-03-15,50,1,single,False,1,1,0,1,2025-03-15,0,False,False,50,2025-03-15,0
+mami chula,jhayco & quevedo,Mami Chula,Jhayco & Quevedo,2024-05-18,2024-09-18,6,118,single,False,1,124,6,2,2024-05-18,0,True,False,6,2024-05-18,0
+mamichula - con nicki nicole,trueno,Mamichula - con Nicki Nicole,Trueno,2025-02-18,2025-04-05,7,44,album,False,10,47,3,2,2025-03-04,14,False,False,7,2025-03-04,14
+manos rotas,dellafuente & morad,Manos Rotas,DELLAFUENTE & Morad,2024-11-18,2025-11-23,1,329,single,False,1,371,42,11,2024-11-29,11,False,False,1,2024-11-29,11
+maquillaje,renn & yexel,Maquillaje,Renn & Yexel,2025-03-21,2025-06-02,18,65,single,True,1,74,9,3,2025-04-08,18,False,False,18,2025-04-08,18
+maquillaje - remix,refracted arg,Maquillaje - Remix,refracted arg,2025-04-21,2025-04-24,32,4,album,False,7,4,0,1,2025-04-21,0,False,False,32,2025-04-21,0
+maquillaje - remix,renn & myke towers & nio garcia,Maquillaje - Remix,Renn & Myke Towers & Nio Garcia,2025-07-10,2025-07-14,25,4,single,True,1,5,1,1,2025-07-14,4,False,False,25,2025-07-14,4
+marea,mora,MAREA,Mora,2024-08-30,2024-08-31,24,2,album,True,15,2,0,1,2024-08-30,0,False,False,24,2024-08-30,0
+martini,dei v,Martini,Dei V,2025-05-02,2025-11-23,7,150,album,True,16,206,56,8,2025-06-17,46,False,False,7,2025-06-17,46
+me has invitado a bailar,dani fernández,Me has invitado a bailar,Dani Fernández,2025-09-04,2025-11-27,15,85,album,False,12,85,0,1,2025-10-31,57,False,True,15,2025-10-31,57
+media luna,mora,MEDIA LUNA,Mora,2024-08-30,2024-09-21,5,14,album,False,15,23,9,2,2024-08-30,0,False,False,5,2024-08-30,0
+mejor así,myke towers,MEJOR ASÍ,Myke Towers,2025-08-24,2025-08-24,37,1,album,True,20,1,0,1,2025-08-24,0,False,False,37,2025-08-24,0
+memorias,mora,MEMORIAS,Mora,2024-05-18,2024-05-27,39,10,album,False,15,10,0,1,2024-05-23,5,True,False,39,2024-05-23,5
+mencionar,eladio carrion,Mencionar,Eladio Carrion,2025-01-21,2025-01-21,42,1,album,False,17,1,0,1,2025-01-21,0,False,False,42,2025-01-21,0
+mercedes carota,bad bunny,MERCEDES CAROTA,Bad Bunny,2024-10-14,2024-10-21,17,8,album,True,22,8,0,1,2024-10-14,0,False,False,17,2024-10-14,0
+mercho,lil cake & migrantes,MERCHO,LiL CaKe & Migrantes,2024-05-18,2024-08-29,21,104,single,False,1,104,0,1,2024-05-29,11,True,False,21,2024-05-29,11
+mi cuarto,tiago pzk & rels b,Mi Cuarto,Tiago PZK & Rels B,2025-10-27,2025-10-27,46,1,single,False,1,1,0,1,2025-10-27,0,False,False,46,2025-10-27,0
+mi droga,myke towers,MI DROGA,Myke Towers,2024-05-18,2024-05-20,46,3,album,True,23,3,0,1,2024-05-18,0,True,False,46,2024-05-18,0
+mi ex tenía razón,karol g,MI EX TENÍA RAZÓN,KAROL G,2024-08-13,2025-07-31,16,22,album,False,9,353,331,2,2024-08-13,0,False,False,16,2024-08-13,0
+mi lova,bad gyal & myke towers,Mi Lova,Bad Gyal & Myke Towers,2024-07-09,2024-08-18,14,41,single,True,1,41,0,1,2024-07-09,0,False,False,14,2024-07-09,0
+mi luz (ft. rels b),rvfv,Mi Luz (ft. Rels B),Rvfv,2024-10-23,2025-10-18,32,172,album,False,15,361,189,15,2025-10-11,353,False,False,40,2024-11-17,25
+mi nena remix,maikel delacalle & quevedo,Mi Nena Remix,Maikel Delacalle & Quevedo,2024-05-18,2024-06-10,26,24,single,False,1,24,0,1,2024-05-19,1,True,False,26,2024-05-19,1
+miamor,aitana,miamor,Aitana,2024-09-24,2024-09-26,34,3,album,False,15,3,0,1,2024-09-24,0,False,False,34,2024-09-24,0
+miamor,aitana & rels b,miamor,Aitana & Rels B,2024-08-26,2024-09-23,4,29,single,False,1,29,0,1,2024-08-26,0,False,False,4,2024-08-26,0
+mientras me curo del cora,karol g,MIENTRAS ME CURO DEL CORA,KAROL G,2025-07-24,2025-08-02,37,10,album,False,17,10,0,1,2025-07-28,4,False,False,37,2025-07-28,4
+mil mujeres,rauw alejandro,Mil Mujeres,Rauw Alejandro,2025-11-17,2025-11-17,36,1,album,True,18,1,0,1,2025-11-17,0,False,False,36,2025-11-17,0
+"milo j: bzrp music sessions, vol. 57",bizarrap & milo j,"Milo J: Bzrp Music Sessions, Vol. 57",Bizarrap & Milo j,2024-10-07,2025-02-10,1,59,single,False,1,127,68,3,2024-10-07,0,False,False,1,2024-10-07,0
+"milo j: bzrp music sessions, vol. 57",paul thin,"Milo J: Bzrp Music Sessions, Vol. 57",Paul Thin,2025-02-01,2025-02-02,39,2,single,False,1,2,0,1,2025-02-01,0,False,False,39,2025-02-01,0
+mirame,blessd & ovy on the drums,Mirame,Blessd & Ovy On The Drums,2025-07-15,2025-07-30,13,16,single,True,1,16,0,1,2025-07-19,4,False,False,13,2025-07-19,4
+mis tías,juanjo bona,Mis Tías,Juanjo Bona,2025-07-21,2025-07-23,44,2,single,False,1,3,1,2,2025-07-21,0,False,False,44,2025-07-21,0
+modelito,mora,MODELITO,Mora,2024-09-09,2025-06-17,4,279,album,True,14,282,3,2,2024-11-12,64,False,False,4,2024-11-12,64
+mojabi ghost,tainy,MOJABI GHOST,Tainy,2024-07-02,2024-08-03,6,33,album,True,19,33,0,1,2024-07-02,0,False,False,6,2024-07-02,0
+monaco,bad bunny,MONACO,Bad Bunny,2024-10-14,2025-01-12,1,78,album,True,22,91,13,3,2024-10-14,0,False,False,1,2024-10-14,0
+mr. moondial,quevedo,MR. MOONDIAL,Quevedo,2025-11-24,2025-11-27,5,4,album,False,18,4,0,1,2025-11-25,1,False,True,5,2025-11-25,1
+mr. october,bad bunny,MR. OCTOBER,Bad Bunny,2024-10-14,2024-10-21,7,8,album,True,22,8,0,1,2024-10-14,0,False,False,7,2024-10-14,0
+my love,de la ghetto & quevedo,My Love,De La Ghetto & Quevedo,2024-06-04,2024-07-01,36,27,single,False,1,28,1,2,2024-06-15,11,False,False,42,2024-06-04,0
+m€ntiras,cruz cafuné,m€ntiras,Cruz Cafuné,2025-07-21,2025-07-21,43,1,single,True,6,1,0,1,2025-07-21,0,False,False,43,2025-07-21,0
+nadie sabe,bad bunny,NADIE SABE,Bad Bunny,2024-10-14,2024-10-28,3,15,album,True,22,15,0,1,2024-10-14,0,False,False,3,2024-10-14,0
+nana del hilo rojo,saiko,NANA DEL HILO ROJO,SAIKO,2025-04-28,2025-05-02,16,5,album,False,16,5,0,1,2025-04-28,0,False,False,16,2025-04-28,0
+narcotics (with bryant myers),dei v & bryant myers,Narcotics (with Bryant Myers),Dei V & Bryant Myers,2024-10-04,2025-06-11,15,188,single,True,1,251,63,3,2024-12-28,85,False,False,15,2024-12-28,85
+"natanael cano: bzrp music sessions, vol. 59",bizarrap & natanael cano,"Natanael Cano: Bzrp Music Sessions, Vol. 59",Bizarrap & Natanael Cano,2025-04-06,2025-04-13,32,8,single,True,1,8,0,1,2025-04-07,1,False,False,32,2025-04-07,1
+new woman (feat. rosalía),lisa & rosalía,New Woman (feat. ROSALÍA),LISA & ROSALÍA,2025-08-17,2025-08-30,15,14,single,False,1,14,0,1,2025-08-17,0,False,False,15,2025-08-17,0
+ni me conozco,rauw alejandro,Ni Me Conozco,Rauw Alejandro,2025-11-17,2025-11-22,26,6,album,True,18,6,0,1,2025-11-17,0,False,False,26,2025-11-17,0
+niña bonita,feid & sean paul,Niña Bonita,Feid & Sean Paul,2024-05-18,2024-08-08,13,83,single,False,1,83,0,1,2024-05-19,1,True,False,13,2024-05-19,1
+no digas na,feid & yandel,No Digas Na,Feid & Yandel,2025-04-17,2025-04-20,48,4,single,False,5,4,0,1,2025-04-18,1,False,False,48,2025-04-18,1
+no estuviste en lo malo,morad,No Estuviste En Lo Malo,Morad,2024-05-18,2024-06-23,46,11,album,False,19,37,26,4,2024-05-31,13,True,False,47,2024-05-18,0
+no estuviste en lo malo - remix,morad & beny jr & dellafuente,No Estuviste En Lo Malo - REMIX,Morad & Beny Jr & DELLAFUENTE,2024-10-07,2025-01-31,12,112,single,False,1,117,5,5,2024-10-07,0,False,False,12,2024-10-07,0
+no has cambiado,baby rasta & noriel & hades66,No Has Cambiado,Baby Rasta & Noriel & Hades66,2025-10-13,2025-11-27,11,24,single,True,1,46,22,6,2025-10-15,2,False,True,45,2025-10-13,0
+no me quiero casar,bad bunny,NO ME QUIERO CASAR,Bad Bunny,2024-10-14,2024-10-19,22,6,album,True,22,6,0,1,2024-10-14,0,False,False,22,2024-10-14,0
+no pienso llamar,soge culebra,NO PIENSO LLAMAR,Soge Culebra,2024-10-14,2025-03-02,7,140,album,False,13,140,0,1,2024-12-23,70,False,False,7,2024-12-23,70
+no pienso llamar,soge culebra & quevedo & garabatto,NO PIENSO LLAMAR,Soge Culebra & Quevedo & GARABATTO,2024-10-07,2024-10-13,16,7,single,False,1,7,0,1,2024-10-07,0,False,False,16,2024-10-07,0
+no soy eterno,bizarrap & milo j,No soy Eterno,Bizarrap & Milo j,2024-10-07,2024-10-13,27,7,single,False,5,7,0,1,2024-10-10,3,False,False,27,2024-10-10,3
+no te quieren conmigo,gaby music & lunay & luar la l,No Te Quieren Conmigo,Gaby Music & Lunay & Luar La L,2024-12-20,2025-04-10,4,110,single,False,1,112,2,1,2025-01-10,21,False,False,4,2025-01-10,21
+no te quieren conmigo - remix,gaby music & anuel aa & luar la l,No Te Quieren Conmigo - Remix,Gaby Music & Anuel AA & Luar La L,2025-04-07,2025-04-27,17,21,single,False,1,21,0,1,2025-04-07,0,False,False,17,2025-04-07,0
+no_se_ve.mp3,emilia,No_Se_Ve.mp3,Emilia,2024-11-04,2025-02-09,32,75,album,False,13,98,23,3,2024-11-05,1,False,False,32,2024-11-05,1
+no_se_ve.mp3,emilia & ludmilla & zecca,No_se_ve.mp3,Emilia & LUDMILLA & ZECCA,2024-06-08,2024-11-03,13,134,single,True,1,149,15,2,2024-08-25,78,False,False,13,2024-08-25,78
+nochentera,vicco,Nochentera,Vicco,2024-05-18,2025-01-09,9,156,single,False,1,237,81,4,2024-05-27,9,True,False,9,2024-05-27,9
+noemú,quevedo,NOEMÚ,Quevedo,2025-11-24,2025-11-27,15,4,album,False,18,4,0,1,2025-11-24,0,False,True,15,2025-11-24,0
+nueva era,duki,Nueva Era,Duki,2025-11-03,2025-11-27,3,25,album,True,15,25,0,1,2025-11-08,5,False,True,3,2025-11-08,5
+número telefónico,saiko,NÚMERO TELEFÓNICO,SAIKO,2025-04-28,2025-05-09,14,12,album,True,16,12,0,1,2025-04-28,0,False,False,14,2025-04-28,0
+oa,anuel aa & quevedo & maluma,OA,Anuel AA & Quevedo & Maluma,2024-10-16,2025-04-27,3,192,single,True,1,194,2,1,2024-11-11,26,False,False,3,2024-11-11,26
+obvio,myke towers,OBVIO,Myke Towers,2024-11-25,2024-11-25,25,1,album,True,23,1,0,1,2024-11-25,0,False,False,25,2024-11-25,0
+offline,young miko,offline,Young Miko,2025-04-07,2025-06-15,16,69,album,True,16,70,1,2,2025-04-09,2,False,False,16,2025-04-09,2
+ohnana,kapo,Ohnana,Kapo,2025-07-04,2025-11-27,2,145,single,False,1,147,2,1,2025-08-01,28,False,True,2,2025-08-01,28
+omega (feat. ralphie choo),rosalía,Omega (feat. Ralphie Choo),ROSALÍA,2025-09-27,2025-10-10,3,14,single,False,1,14,0,1,2025-09-27,0,False,False,3,2025-09-27,0
+orgullosa de papá,cano,Orgullosa De Papá,Cano,2025-11-01,2025-11-23,45,6,album,False,10,23,17,3,2025-11-16,15,False,False,47,2025-11-02,1
+otra noche,myke towers & darell,OTRA NOCHE,Myke Towers & Darell,2025-08-20,2025-08-23,36,4,single,True,1,4,0,1,2025-08-23,3,False,False,36,2025-08-23,3
+otra noche (feat. darell),myke towers,OTRA NOCHE (feat. Darell),Myke Towers,2025-08-24,2025-11-16,11,85,album,True,20,85,0,1,2025-09-07,14,False,False,11,2025-09-07,14
+otra oportunidad,myke towers,OTRA OPORTUNIDAD,Myke Towers,2025-08-24,2025-08-24,25,1,album,True,20,1,0,1,2025-08-24,0,False,False,25,2025-08-24,0
+otro round,myke towers,OTRO ROUND,Myke Towers,2024-11-25,2024-11-25,50,1,album,True,23,1,0,1,2024-11-25,0,False,False,50,2024-11-25,0
+oye bb,omar montes & nicky jam,Oye BB,Omar Montes & Nicky Jam,2024-11-11,2024-11-11,43,1,single,False,1,1,0,1,2024-11-11,0,False,False,43,2024-11-11,0
+pa' la vuelta,eladio carrion & morad,PA' LA VUELTA,Eladio Carrion & Morad,2024-08-06,2024-08-06,49,1,single,True,1,1,0,1,2024-08-06,0,False,False,49,2024-08-06,0
+pacto (feat. bryant myers & dei v) - remix,jay wheeler & anuel aa & hades66,Pacto (feat. Bryant Myers & Dei V) - Remix,Jay Wheeler & Anuel AA & Hades66,2024-07-29,2024-10-06,20,66,single,True,1,70,4,3,2024-08-19,21,False,False,20,2024-08-19,21
+pacto (feat. luar la l),jay wheeler,Pacto (feat. Luar La L),Jay Wheeler,2024-06-01,2024-07-01,38,31,album,True,9,31,0,1,2024-06-22,21,False,False,38,2024-06-22,21
+pasajero,mora,PASAJERO,Mora,2024-08-30,2024-10-13,4,45,album,False,15,45,0,1,2024-08-30,0,False,False,4,2024-08-30,0
+pasaporte,rauw alejandro,Pasaporte,Rauw Alejandro,2025-11-17,2025-11-17,43,1,album,False,18,1,0,1,2025-11-17,0,False,False,43,2025-11-17,0
+pasaporte,rauw alejandro & mr. naisgai,Pasaporte,Rauw Alejandro & Mr. Naisgai,2025-09-29,2025-09-29,49,1,single,False,1,1,0,1,2025-09-29,0,False,False,49,2025-09-29,0
+pasiempre,tainy,PASIEMPRE,Tainy,2024-07-02,2024-07-20,21,19,album,True,19,19,0,1,2024-07-05,3,False,False,21,2024-07-05,3
+passoa,jhayco,Passoa,JHAYCO,2025-09-08,2025-09-27,27,20,album,False,29,20,0,1,2025-09-08,0,False,False,27,2025-09-08,0
+passoa,jhayco & kapo,Passoa,JHAYCO & Kapo,2025-08-17,2025-09-07,19,20,single,False,1,22,2,2,2025-08-26,9,False,False,36,2025-08-17,0
+paz,morad,Paz,Morad,2024-05-18,2024-05-20,44,3,album,False,19,3,0,1,2024-05-18,0,True,False,44,2024-05-18,0
+pedro,jaxomy & agatino romero & raffaella carrà,Pedro,Jaxomy & Agatino Romero & Raffaella Carrà,2025-04-14,2025-05-21,14,35,single,False,1,38,3,2,2025-04-21,7,False,False,14,2025-04-21,7
+peligrosa,floyymenor,PELIGROSA,FloyyMenor,2025-07-31,2025-11-27,3,119,album,True,7,120,1,1,2025-09-08,39,False,True,3,2025-09-08,39
+penas de antaño,bizarrap & milo j,Penas de Antaño,Bizarrap & Milo j,2024-10-09,2024-10-12,44,4,single,False,5,4,0,1,2024-10-10,1,False,False,44,2024-10-10,1
+perdió este culo,bad gyal,Perdió Este Culo,Bad Gyal,2025-01-28,2025-02-24,18,28,album,True,15,28,0,1,2025-01-31,3,False,False,18,2025-01-31,3
+perreo lento,chris jedi & gaby music & dei v,PERREO LENTO,Chris Jedi & Gaby Music & Dei V,2025-03-02,2025-03-29,28,26,single,True,5,28,2,1,2025-03-07,5,False,False,28,2025-03-07,5
+perro negro,bad bunny,PERRO NEGRO,Bad Bunny,2024-10-14,2025-05-31,2,195,album,True,22,230,35,2,2024-10-17,3,False,False,2,2024-10-17,3
+perros&gata$,nicki nicole & saiko,PERROS&GATA$,Nicki Nicole & SAIKO,2025-07-04,2025-07-07,45,4,single,False,1,4,0,1,2025-07-04,0,False,False,45,2025-07-04,0
+"peso pluma: bzrp music sessions, vol. 55",bizarrap & peso pluma,"Peso Pluma: Bzrp Music Sessions, Vol. 55",Bizarrap & Peso Pluma,2024-06-03,2024-07-01,2,29,single,True,1,29,0,1,2024-06-03,0,False,False,2,2024-06-03,0
+pide,mora,PIDE,Mora,2024-08-30,2024-09-02,15,4,album,True,15,4,0,1,2024-08-30,0,False,False,15,2024-08-30,0
+piribiri,jc reyes & pedro calderon,PIRIBIRI,JC Reyes & Pedro Calderon,2024-08-09,2024-09-29,37,41,single,False,1,52,11,3,2024-09-17,39,False,False,46,2024-08-10,1
+playa del inglés,quevedo,PLAYA DEL INGLÉS,Quevedo,2024-05-18,2024-12-12,15,159,album,False,16,209,50,2,2024-05-18,0,True,False,15,2024-05-18,0
+please please please,sabrina carpenter,Please Please Please,Sabrina Carpenter,2025-06-12,2025-06-20,33,9,single,True,2,9,0,1,2025-06-18,6,False,False,33,2025-06-18,6
+polaris,saiko,Polaris,Saiko,2024-05-18,2024-06-11,22,25,single,True,3,25,0,1,2024-06-10,23,True,False,22,2024-06-10,23
+polaris - remix,saiko,POLARIS - Remix,SAIKO,2025-04-28,2025-05-09,31,12,album,True,16,12,0,1,2025-04-29,1,False,False,31,2025-04-29,1
+polaris - remix,saiko & feid & quevedo,POLARIS - Remix,Saiko & Feid & Quevedo,2024-06-11,2025-04-20,1,312,single,True,1,314,2,1,2024-06-11,0,False,False,1,2024-06-11,0
+por atrás,quevedo,POR ATRÁS,Quevedo,2025-11-24,2025-11-27,11,4,album,False,18,4,0,1,2025-11-24,0,False,True,11,2025-11-24,0
+potra salvaje,isabel aaiún,Potra Salvaje,Isabel Aaiún,2025-07-07,2025-08-28,14,50,album,False,10,53,3,2,2025-07-18,11,False,False,14,2025-07-18,11
+potra salvaje - hard remix,isabel aaiún & fernando moreno,Potra Salvaje - Hard Remix,Isabel Aaiún & Fernando Moreno,2025-05-29,2025-09-24,3,114,single,False,1,119,5,2,2025-06-18,20,False,False,3,2025-06-18,20
+privilegios,feid,PRIVILEGIOS,Feid,2024-09-30,2024-10-01,46,2,album,False,15,2,0,1,2024-09-30,0,False,False,46,2024-09-30,0
+probemas mentales,jzaeb & eix,Probemas Mentales,JZAEB & Eix,2025-03-07,2025-03-07,48,1,single,True,1,1,0,1,2025-03-07,0,False,False,48,2025-03-07,0
+problemas mentales,jzaeb & eix,Problemas Mentales,JZAEB & Eix,2025-03-20,2025-03-22,22,2,single,True,1,3,1,2,2025-03-22,2,False,False,23,2025-03-20,0
+provenza,karol g,PROVENZA,KAROL G,2025-07-25,2025-07-30,45,6,album,False,17,6,0,1,2025-07-26,1,False,False,45,2025-07-26,1
+"ptazeta: bzrp music sessions, vol. 45",paul thin & ruslana,"Ptazeta: Bzrp Music Sessions, Vol. 45",Paul Thin & RUSLANA,2025-01-18,2025-01-19,42,2,single,False,1,2,0,1,2025-01-18,0,False,False,42,2025-01-18,0
+punto g,quevedo,PUNTO G,Quevedo,2024-05-18,2025-01-13,23,162,album,False,16,241,79,6,2024-05-30,12,True,False,23,2024-05-30,12
+pólvora,mora,PÓLVORA,Mora,2024-08-30,2024-09-09,8,11,album,True,15,11,0,1,2024-08-30,0,False,False,8,2024-08-30,0
+q u e v a s h a c e r h o y ?,omar courtz,Q U E V A S H A C E R H O Y ?,Omar Courtz,2025-09-25,2025-11-27,1,64,album,True,17,64,0,1,2025-10-02,7,False,True,1,2025-10-02,7
+qlona,karol g,QLONA,KAROL G,2024-08-19,2025-10-19,8,342,album,True,9,427,85,7,2024-09-14,26,False,False,8,2024-09-14,26
+que asco de todo,quevedo,QUE ASCO DE TODO,Quevedo,2025-11-24,2025-11-27,19,4,album,False,18,4,0,1,2025-11-24,0,False,True,19,2025-11-24,0
+que me lleve el aire,luis cortés,Que Me Lleve el Aire,Luis Cortés,2025-10-10,2025-10-17,42,8,single,False,1,8,0,1,2025-10-13,3,False,False,42,2025-10-13,3
+que te vaya bien,rvfv,Que te vaya bien,Rvfv,2024-05-18,2024-06-07,26,21,single,False,1,21,0,1,2024-05-18,0,True,False,26,2024-05-18,0
+quevedo #49 after hour the mixtape,dj saot st,QUEVEDO #49 AFTER HOUR THE MIXTAPE,DJ Saot ST,2024-06-04,2024-06-04,48,1,album,False,49,1,0,1,2024-06-04,0,False,False,48,2024-06-04,0
+"quevedo: bzrp music sessions, vol. 52",bizarrap & quevedo,"Quevedo: Bzrp Music Sessions, Vol. 52",Bizarrap & Quevedo,2024-05-18,2025-01-03,27,133,single,False,1,231,98,4,2024-05-29,11,True,False,27,2024-05-29,11
+quickie,dei v,Quickie,Dei V,2025-11-19,2025-11-25,31,7,single,True,1,7,0,1,2025-11-23,4,False,False,31,2025-11-23,4
+quien es dei v?,dei v,Quien Es Dei V?,Dei V,2024-09-24,2025-04-09,10,196,single,True,1,198,2,1,2024-10-04,10,False,False,10,2024-10-04,10
+quizás si quizás no,alvaro diaz & quevedo,QUIZÁS SI QUIZÁS NO,Alvaro Diaz & Quevedo,2024-11-25,2024-12-23,13,29,single,False,1,29,0,1,2024-11-25,0,False,False,13,2024-11-25,0
+quién es dei v?,dei v,Quién es Dei V?,Dei V,2025-06-16,2025-06-16,50,1,album,True,16,1,0,1,2025-06-16,0,False,False,50,2025-06-16,0
+qué pasaría...,rauw alejandro,Qué Pasaría...,Rauw Alejandro,2025-11-17,2025-11-27,1,11,album,True,18,11,0,1,2025-11-17,0,False,True,1,2025-11-17,0
+qué pecao,manuel turizo,Qué Pecao,Manuel Turizo,2025-11-24,2025-11-27,34,4,album,False,12,4,0,1,2025-11-24,0,False,True,34,2025-11-24,0
+qué pecao,manuel turizo & kapo,Qué Pecao,Manuel Turizo & Kapo,2025-10-06,2025-11-23,13,49,single,False,1,49,0,1,2025-10-13,7,False,False,13,2025-10-13,7
+rang€ rov€r,cruz cafuné,rang€ rov€r,Cruz Cafuné,2025-07-21,2025-07-21,47,1,single,True,6,1,0,1,2025-07-21,0,False,False,47,2025-07-21,0
+rapapa,jc reyes,RAPAPA,JC Reyes,2025-10-20,2025-11-26,8,38,single,False,6,38,0,1,2025-11-01,12,False,False,8,2025-11-01,12
+rapeadita love,rels b,Rapeadita LOVE,Rels B,2025-04-28,2025-04-28,44,1,album,True,13,1,0,1,2025-04-28,0,False,False,44,2025-04-28,0
+rapido (with cris mj),dei v,Rapido (with Cris Mj),Dei V,2025-06-16,2025-11-27,5,162,album,True,16,165,3,2,2025-08-22,67,False,True,33,2025-06-16,0
+rara vez,taiu & milo j,Rara Vez,Taiu & Milo j,2024-05-18,2024-12-13,15,147,single,False,1,210,63,5,2024-05-20,2,True,False,15,2024-05-20,2
+"rauw alejandro: bzrp music sessions, vol. 56",bizarrap & rauw alejandro,"Rauw Alejandro: Bzrp Music Sessions, Vol. 56",Bizarrap & Rauw Alejandro,2024-06-24,2024-10-13,1,111,single,True,1,112,1,2,2024-06-24,0,False,False,1,2024-06-24,0
+razones,ozuna & anuel aa & mambo kingz,Razones,Ozuna & Anuel AA & Mambo Kingz,2025-06-30,2025-07-05,16,6,single,False,1,6,0,1,2025-06-30,0,False,False,16,2025-06-30,0
+real gangsta love,trueno,REAL GANGSTA LOVE,Trueno,2025-06-06,2025-11-16,1,154,album,True,13,164,10,2,2025-06-12,6,False,False,1,2025-06-12,6
+reina,mora,REINA,Mora,2024-08-30,2025-04-17,1,229,album,True,15,231,2,1,2024-08-30,0,False,False,1,2024-08-30,0
+remember me,duki,Remember Me,Duki,2024-07-19,2024-07-22,43,4,album,False,15,4,0,1,2024-07-19,0,False,False,43,2024-07-19,0
+remix exclusivo,feid,REMIX EXCLUSIVO,Feid,2024-05-18,2024-06-04,43,17,single,True,1,18,1,2,2024-05-20,2,True,False,43,2024-05-20,2
+revolú,rauw alejandro,Revolú,Rauw Alejandro,2025-11-17,2025-11-23,10,7,album,True,18,7,0,1,2025-11-17,0,False,False,10,2025-11-17,0
+"ride or die, pt. 2 (with villano antillano & tokischa)",sevdaliza & villano antillano & tokischa,"Ride Or Die, Pt. 2 (with Villano Antillano & Tokischa)",Sevdaliza & Villano Antillano & Tokischa,2025-04-26,2025-05-12,26,5,single,True,2,17,12,2,2025-04-27,1,False,False,26,2025-04-27,1
+ritmo de medallo,feid,RITMO DE MEDALLO,Feid,2024-09-30,2024-10-01,37,2,album,False,15,2,0,1,2024-09-30,0,False,False,37,2024-09-30,0
+ritual,myke towers,RITUAL,Myke Towers,2024-11-25,2024-11-25,48,1,album,True,23,1,0,1,2024-11-25,0,False,False,48,2024-11-25,0
+rko,eladio carrion,RKO,Eladio Carrion,2025-01-21,2025-01-24,20,4,album,True,17,4,0,1,2025-01-21,0,False,False,20,2025-01-21,0
+rockin' around the christmas tree,brenda lee,Rockin' Around The Christmas Tree,Brenda Lee,2024-12-24,2024-12-27,7,4,album,False,12,4,0,1,2024-12-25,1,False,False,7,2024-12-25,1
+rockstar 2.0,duki,RoCKSTAR 2.0,Duki,2024-06-25,2024-07-02,16,8,album,True,14,8,0,1,2024-06-25,0,False,False,16,2024-06-25,0
+rockstar 2.0,duki & jhayco,RoCKSTAR 2.0,Duki & Jhayco,2024-06-24,2024-06-24,14,1,single,True,1,1,0,1,2024-06-24,0,False,False,14,2024-06-24,0
+romero santo,dellafuente,Romero Santo,DELLAFUENTE,2025-06-16,2025-06-21,31,5,album,False,10,6,1,2,2025-06-16,0,False,False,31,2025-06-16,0
+rompeolas,martin urrutia,rompeolas,Martin Urrutia,2025-04-12,2025-04-18,39,2,single,False,1,7,5,2,2025-04-18,6,False,False,45,2025-04-12,0
+rosas,la oreja de van gogh,Rosas,La Oreja de Van Gogh,2025-10-17,2025-10-26,30,10,album,False,12,10,0,1,2025-10-19,2,False,False,30,2025-10-19,2
+rueda,rvfv,RUEDA,Rvfv,2025-06-02,2025-08-14,21,70,album,False,20,74,4,2,2025-06-19,17,False,False,47,2025-06-02,0
+rápido,mora,RÁPIDO,Mora,2024-05-18,2024-05-24,41,7,single,True,1,7,0,1,2024-05-18,0,True,False,41,2024-05-18,0
+s91,karol g,S91,KAROL G,2024-07-16,2024-09-04,21,49,album,False,9,51,2,2,2024-08-13,28,False,False,21,2024-08-13,28
+sangre y fe,cruz cafuné,Sangre y Fe,Cruz Cafuné,2024-05-28,2024-06-16,6,20,album,True,23,20,0,1,2024-05-28,0,False,False,6,2024-05-28,0
+santa,rvssian,Santa,Rvssian,2025-05-22,2025-11-27,2,188,single,False,2,190,2,1,2025-05-22,0,False,True,2,2025-05-22,0
+santa,rvssian & rauw alejandro & ayra starr,Santa,Rvssian & Rauw Alejandro & Ayra Starr,2025-04-16,2025-05-21,1,36,single,False,1,36,0,1,2025-04-21,5,False,False,1,2025-04-21,5
+santa tell me,ariana grande,Santa Tell Me,Ariana Grande,2024-12-25,2024-12-27,17,3,single,False,1,3,0,1,2024-12-25,0,False,False,17,2024-12-25,0
+se fue,rauw alejandro,Se Fue,Rauw Alejandro,2025-11-17,2025-11-27,5,11,album,False,18,11,0,1,2025-11-17,0,False,True,5,2025-11-17,0
+se grita,morad,Se Grita,Morad,2024-07-21,2024-08-05,46,16,album,True,19,16,0,1,2024-07-25,4,False,False,46,2024-07-25,4
+se me olvida,maisak & feid,SE ME OLVIDA,Maisak & Feid,2025-08-24,2025-11-16,11,79,single,True,1,85,6,3,2025-09-01,8,False,False,11,2025-09-01,8
+se pone las nike,cano,Se Pone Las Nike,Cano,2025-11-06,2025-11-27,6,22,album,False,10,22,0,1,2025-11-14,8,False,True,6,2025-11-14,8
+se te nota (feat. peso pluma),myke towers,SE TE NOTA (feat. Peso Pluma),Myke Towers,2025-08-24,2025-08-25,27,2,album,True,20,2,0,1,2025-08-24,0,False,False,27,2025-08-24,0
+seda,bad bunny,SEDA,Bad Bunny,2024-10-14,2025-02-13,6,119,album,True,22,123,4,3,2024-10-14,0,False,False,6,2024-10-14,0
+sexesexy,mushkaa,SexeSexy,Mushkaa,2025-03-31,2025-04-13,40,6,album,False,9,14,8,3,2025-03-31,0,False,False,40,2025-03-31,0
+sexo desenfrenado,myke towers,SEXO DESENFRENADO,Myke Towers,2025-08-24,2025-08-24,45,1,album,True,20,1,0,1,2025-08-24,0,False,False,45,2025-08-24,0
+seya,gims,SEYA,GIMS,2024-10-21,2025-02-27,21,109,album,False,22,130,21,3,2024-12-20,60,False,False,21,2024-12-20,60
+"shakira: bzrp music sessions, vol. 53",bizarrap & shakira,"Shakira: Bzrp Music Sessions, Vol. 53",Bizarrap & Shakira,2024-05-18,2024-07-18,30,61,single,False,1,62,1,2,2024-05-23,5,True,False,30,2024-05-23,5
+shars 2023,al safir,Shars 2023,Al Safir,2024-11-30,2024-12-01,21,2,single,False,1,2,0,1,2024-11-30,0,False,False,21,2024-11-30,0
+shibatto,quevedo,SHIBATTO,Quevedo,2025-11-24,2025-11-27,3,4,album,False,18,4,0,1,2025-11-26,2,False,True,3,2025-11-26,2
+si antes te hubiera conocido,karol g,Si Antes Te Hubiera Conocido,KAROL G,2025-06-22,2025-11-27,1,157,single,False,1,159,2,1,2025-07-02,10,False,True,1,2025-07-02,10
+si la calle llama - remix,eladio carrion,Si La Calle Llama - Remix,Eladio Carrion,2024-05-18,2024-08-29,20,104,album,True,18,104,0,1,2024-05-19,1,True,False,20,2024-05-19,1
+si no es contigo,cris mj,SI NO ES CONTIGO,Cris Mj,2025-06-18,2025-09-20,31,92,single,True,1,95,3,2,2025-08-09,52,False,False,31,2025-08-09,52
+si no estás,iñigo quintero,Si No Estás,iñigo quintero,2024-09-20,2025-04-03,1,187,single,False,1,196,9,6,2024-09-29,9,False,False,1,2024-09-29,9
+si sabe ferxxo,blessd,SI SABE FERXXO,Blessd,2025-01-28,2025-02-28,27,31,album,True,14,32,1,2,2025-02-01,4,False,False,50,2025-01-28,0
+"si si si si (feat. eladio carrion, bryant myers, dei v)",the academy: segunda misión,"SI SI SI SI (feat. Eladio Carrion, Bryant Myers, Dei V)",The Academy: Segunda Misión,2025-03-31,2025-03-31,16,1,album,True,9,1,0,1,2025-03-31,0,False,False,16,2025-03-31,0
+"si si si si (feat. eladio carrion, bryant myers, dei v)",the academy: segunda misión & justin quiles & lenny tavárez,"SI SI SI SI (feat. Eladio Carrion, Bryant Myers, Dei V)",The Academy: Segunda Misión & Justin Quiles & Lenny Tavárez,2025-04-01,2025-06-08,16,58,album,True,9,69,11,3,2025-04-12,11,False,False,47,2025-04-01,0
+si te pegas,rauw alejandro,SI TE PEGAS,Rauw Alejandro,2024-07-09,2024-07-12,30,4,album,True,14,4,0,1,2024-07-09,0,False,False,30,2024-07-09,0
+sigo enamorau',eladio carrion,Sigo Enamorau',Eladio Carrion,2025-01-21,2025-01-21,17,1,album,True,17,1,0,1,2025-01-21,0,False,False,17,2025-01-21,0
+sin gato (miau!),rels b,Sin Gato (MIAU!),Rels B,2024-05-28,2024-06-03,45,3,single,False,1,7,4,2,2024-05-28,0,False,False,45,2024-05-28,0
+sleigh ride,the ronettes,Sleigh Ride,The Ronettes,2024-12-25,2024-12-27,28,3,album,False,15,3,0,1,2024-12-25,0,False,False,28,2024-12-25,0
+snowman,sia,Snowman,Sia,2024-12-25,2024-12-27,27,3,album,False,13,3,0,1,2024-12-25,0,False,False,27,2024-12-25,0
+sofi - remix,samueliyo baby & kevin roldan,Sofi - Remix,Samueliyo Baby & KEVIN ROLDAN,2024-12-12,2024-12-14,22,3,single,False,1,3,0,1,2024-12-12,0,False,False,22,2024-12-12,0
+solita y sueltaaa,rels b,Solita y SueltAAA,Rels B,2024-07-23,2024-07-25,49,3,album,False,9,3,0,1,2024-07-25,2,False,False,49,2024-07-25,2
+soltera,shakira,Soltera,Shakira,2025-09-28,2025-11-27,5,61,single,False,1,61,0,1,2025-10-14,16,False,True,5,2025-10-14,16
+sonrisa,eladio carrion,Sonrisa,Eladio Carrion,2025-01-21,2025-01-21,16,1,album,True,17,1,0,1,2025-01-21,0,False,False,16,2025-01-21,0
+sorry 4 that much,feid,SORRY 4 THAT MUCH,Feid,2025-06-09,2025-07-17,9,38,single,True,1,39,1,1,2025-06-17,8,False,False,9,2025-06-17,8
+spanish teteo,rvfv & rels b & omar montes,SPANISH TETEO,Rvfv & Rels B & Omar Montes,2024-09-10,2024-09-11,50,2,single,True,1,2,0,1,2024-09-10,0,False,False,50,2024-09-10,0
+sport+ rmx,clarent & myke towers,Sport+ RMX,Clarent & Myke Towers,2025-08-15,2025-08-23,47,9,single,True,1,9,0,1,2025-08-17,2,False,False,47,2025-08-17,2
+star,jc reyes,STAR,JC Reyes,2025-10-20,2025-11-27,7,37,single,False,6,39,2,2,2025-11-15,26,False,True,50,2025-10-20,0
+suano,ntg & amenazzy,Suano,NTG & Amenazzy,2025-05-16,2025-08-09,6,80,single,True,1,86,6,2,2025-06-02,17,False,False,6,2025-06-02,17
+supernova,saiko,Supernova,Saiko,2024-05-18,2025-05-03,1,207,album,False,16,351,144,8,2024-05-18,0,True,False,1,2024-05-18,0
+t'as peur,aya nakamura,T'as peur,Aya Nakamura,2024-05-18,2024-05-21,45,4,album,False,15,4,0,1,2024-05-18,0,True,False,45,2024-05-18,0
+tacos gucci,anuel aa,Tacos Gucci,Anuel AA,2025-02-18,2025-03-05,19,13,single,True,1,16,3,3,2025-02-22,4,False,False,19,2025-02-22,4
+también,myke towers,TAMBIÉN,Myke Towers,2025-08-24,2025-11-27,5,88,album,True,20,96,8,2,2025-10-06,43,False,True,41,2025-08-24,0
+tanta droga,eladio carrion,Tanta Droga,Eladio Carrion,2025-01-21,2025-01-21,27,1,album,True,17,1,0,1,2025-01-21,0,False,False,27,2025-01-21,0
+taste,sabrina carpenter,Taste,Sabrina Carpenter,2025-08-29,2025-09-03,47,6,album,False,12,6,0,1,2025-08-31,2,False,False,47,2025-08-31,2
+tattoo,loreen,Tattoo,Loreen,2024-05-18,2024-06-02,21,16,single,False,1,16,0,1,2024-05-18,0,True,False,21,2024-05-18,0
+te fallé,quevedo,TE FALLÉ,Quevedo,2025-11-24,2025-11-27,17,4,album,False,18,4,0,1,2025-11-24,0,False,True,17,2025-11-24,0
+te menti,ozuna & saiko & ovy on the drums,Te Menti,Ozuna & Saiko & Ovy On The Drums,2024-09-19,2024-09-29,38,11,single,False,1,11,0,1,2024-09-20,1,False,False,38,2024-09-20,1
+telefono nuevo,bad bunny,TELEFONO NUEVO,Bad Bunny,2024-10-14,2024-10-28,9,15,album,True,22,15,0,1,2024-10-14,0,False,False,9,2024-10-14,0
+tengo un plan,key-key,Tengo Un Plan,Key-Key,2025-04-04,2025-06-11,11,69,single,False,1,69,0,1,2025-04-14,10,False,False,11,2025-04-14,10
+thalía,cyril kamer,Thalía,Cyril Kamer,2025-03-15,2025-06-04,9,81,single,False,1,82,1,1,2025-04-09,25,False,False,9,2025-04-09,25
+thalía - remix,cyril kamer & rvfv & polimá westcoast,Thalía - Remix,Cyril Kamer & Rvfv & Polimá Westcoast,2025-07-18,2025-08-23,25,34,single,False,1,37,3,3,2025-08-04,17,False,False,46,2025-07-20,2
+the code,nemo,The Code,Nemo,2025-05-14,2025-05-18,24,5,single,False,1,5,0,1,2025-05-14,0,False,False,24,2025-05-14,0
+the emptiness machine,linkin park,The Emptiness Machine,Linkin Park,2025-09-11,2025-10-02,30,17,single,True,1,22,5,3,2025-09-13,2,False,False,30,2025-09-13,2
+thunder y lightning,bad bunny,THUNDER Y LIGHTNING,Bad Bunny,2024-10-14,2024-11-17,14,35,album,True,22,35,0,1,2024-10-14,0,False,False,14,2024-10-14,0
+timeless (with playboi carti),the weeknd & playboi carti,Timeless (with Playboi Carti),The Weeknd & Playboi Carti,2025-09-29,2025-09-29,50,1,single,True,1,1,0,1,2025-09-29,0,False,False,50,2025-09-29,0
+todo contigo,álvaro de luna,Todo Contigo,Álvaro De Luna,2024-05-18,2024-09-23,12,129,single,False,1,129,0,1,2024-05-18,0,True,False,12,2024-05-18,0
+todo lit,eladio carrion,Todo Lit,Eladio Carrion,2025-01-21,2025-01-21,23,1,album,True,17,1,0,1,2025-01-21,0,False,False,23,2025-01-21,0
+toy en el mic,bizarrap & milo j,Toy en el Mic,Bizarrap & Milo j,2024-10-07,2024-10-13,24,7,single,True,5,7,0,1,2024-10-10,3,False,False,24,2024-10-10,3
+tqg,karol g,TQG,KAROL G,2024-05-18,2025-08-08,9,120,album,True,17,448,328,3,2024-05-18,0,True,False,9,2024-05-18,0
+tqmqa,eladio carrion,TQMQA,Eladio Carrion,2024-12-17,2025-01-26,15,32,album,False,17,41,9,3,2025-01-21,35,False,False,26,2024-12-21,4
+tranquila baby,eladio carrion,Tranquila Baby,Eladio Carrion,2025-01-21,2025-01-21,32,1,album,True,17,1,0,1,2025-01-21,0,False,False,32,2025-01-21,0
+trato de estar bien,duki,Trato De Estar Bien,Duki,2025-11-03,2025-11-09,37,5,album,False,15,7,2,2,2025-11-03,0,False,False,37,2025-11-03,0
+trending remix (with myke towers),dei v,Trending Remix (with Myke Towers),Dei V,2025-03-03,2025-07-20,10,137,album,True,16,140,3,1,2025-03-10,7,False,False,10,2025-03-10,7
+tu ritmo,eladio carrion,Tu Ritmo,Eladio Carrion,2025-01-21,2025-01-21,21,1,album,True,17,1,0,1,2025-01-21,0,False,False,21,2025-01-21,0
+tu silueta,diegote,Tu Silueta,Diegote,2025-07-14,2025-10-28,5,106,single,False,1,107,1,1,2025-07-31,17,False,False,5,2025-07-31,17
+tu$$i (with dei v),yovngchimi,TU$$I (with Dei V),YOVNGCHIMI,2025-03-01,2025-08-16,11,160,album,True,16,169,9,5,2025-03-19,18,False,False,11,2025-03-19,18
+tuya,rosalía,TUYA,ROSALÍA,2024-06-11,2024-07-18,6,38,single,True,1,38,0,1,2024-06-11,0,False,False,6,2024-06-11,0
+tú con él,rauw alejandro,Tú Con Él,Rauw Alejandro,2025-11-17,2025-11-23,12,7,album,False,18,7,0,1,2025-11-17,0,False,False,12,2025-11-17,0
+un deseo,mora,UN DESEO,Mora,2024-08-30,2024-08-31,20,2,album,True,15,2,0,1,2024-08-30,0,False,False,20,2024-08-30,0
+un desperdicio,rels b,Un Desperdicio,Rels B,2025-04-28,2025-05-15,29,16,album,False,13,18,2,2,2025-05-08,10,False,False,35,2025-04-28,0
+un preview,bad bunny,UN PREVIEW,Bad Bunny,2024-09-27,2024-11-02,1,37,album,True,22,37,0,1,2024-09-27,0,False,False,1,2024-09-27,0
+un rodeoooo,rels b,Un Rodeoooo,Rels B,2024-07-23,2024-09-23,36,57,album,False,9,63,6,2,2024-08-10,18,False,False,36,2024-08-10,18
+un x100to,grupo frontera & bad bunny,un x100to,Grupo Frontera & Bad Bunny,2024-05-18,2024-06-14,31,27,single,False,1,28,1,2,2024-05-21,3,True,False,31,2024-05-21,3
+una bachata,lola indigo,UNA BACHATA,Lola Indigo,2025-02-04,2025-04-27,8,77,album,False,7,83,6,2,2025-02-04,0,False,False,8,2025-02-04,0
+una foto remix (feat. emilia),mesita & nicki nicole & tiago pzk,Una Foto Remix (feat. Emilia),Mesita & Nicki Nicole & Tiago PZK,2025-01-11,2025-06-15,6,154,single,False,1,156,2,1,2025-02-01,21,False,False,6,2025-02-01,21
+una velita,bad bunny,Una Velita,Bad Bunny,2025-09-22,2025-09-27,7,6,single,True,1,6,0,1,2025-09-22,0,False,False,7,2025-09-22,0
+underneath the tree,kelly clarkson,Underneath the Tree,Kelly Clarkson,2024-12-25,2024-12-27,22,3,album,False,14,3,0,1,2024-12-25,0,False,False,22,2024-12-25,0
+uwaie,kapo,UWAIE,Kapo,2025-08-20,2025-11-27,2,100,single,False,1,100,0,1,2025-08-29,9,False,True,2,2025-08-29,9
+vacile,yan block,Vacile,Yan Block,2025-08-15,2025-11-27,16,105,single,True,1,105,0,1,2025-10-17,63,False,True,16,2025-10-17,63
+vagabundo,sebastian yatra,VAGABUNDO,Sebastian Yatra,2024-09-24,2024-09-26,14,3,album,False,12,3,0,1,2024-09-24,0,False,False,14,2024-09-24,0
+vagabundo,sebastian yatra & manuel turizo & beéle,VAGABUNDO,Sebastian Yatra & Manuel Turizo & Beéle,2024-05-18,2025-10-16,3,385,single,False,1,517,132,22,2024-06-04,17,True,False,3,2024-06-04,17
+vampire,olivia rodrigo,vampire,Olivia Rodrigo,2024-07-02,2024-07-02,48,1,single,True,1,1,0,1,2024-07-02,0,False,False,48,2024-07-02,0
+vente conmigo,feid,VENTE CONMIGO,Feid,2024-08-06,2024-08-12,22,7,single,False,1,7,0,1,2024-08-06,0,False,False,22,2024-08-06,0
+vida de rock,duki,Vida De Rock,Duki,2025-11-03,2025-11-10,34,8,album,True,15,8,0,1,2025-11-07,4,False,False,34,2025-11-07,4
+vista al mar,quevedo,VISTA AL MAR,Quevedo,2024-05-21,2024-07-29,43,33,album,False,16,70,37,3,2024-05-30,9,False,False,43,2024-05-30,9
+volver,tainy,VOLVER,Tainy,2024-07-02,2024-07-02,49,1,album,True,19,1,0,1,2024-07-02,0,False,False,49,2024-07-02,0
+vou 787,bad bunny,VOU 787,Bad Bunny,2024-10-14,2024-10-18,13,5,album,True,22,5,0,1,2024-10-14,0,False,False,13,2024-10-14,0
+vuelve candy b,bad bunny,VUELVE CANDY B,Bad Bunny,2024-10-14,2024-10-18,19,5,album,True,22,5,0,1,2024-10-14,0,False,False,19,2024-10-14,0
+"vvs switch (feat. hades66, luar la l & cdobleta) - remix",pressure 9x19 & anuel aa & yovngchimi,"VVS Switch (feat. Hades66, Luar La L & CDobleta) - Remix",Pressure 9X19 & Anuel AA & YOVNGCHIMI,2025-03-17,2025-03-30,13,13,single,True,1,14,1,1,2025-03-17,0,False,False,13,2025-03-17,0
+wanda,quevedo,WANDA,Quevedo,2024-05-18,2024-12-07,18,145,album,False,16,204,59,2,2024-05-18,0,True,False,18,2024-05-18,0
+we can't be friends (wait for your love),ariana grande,we can't be friends (wait for your love),Ariana Grande,2025-03-11,2025-03-20,31,8,album,False,13,10,2,2,2025-03-13,2,False,False,31,2025-03-13,2
+where she goes,bad bunny,WHERE SHE GOES,Bad Bunny,2024-05-21,2024-10-28,1,154,album,True,22,161,7,2,2024-05-21,0,False,False,1,2024-05-21,0
+whisky,samuel g & oscar el ruso & aissa,Whisky,Samuel G & Oscar el Ruso & Aissa,2025-07-17,2025-07-31,30,15,single,False,1,15,0,1,2025-07-21,4,False,False,30,2025-07-21,4
+wya remix red,j abdiel & de la rose & yan block,WYA REMIX RED,J Abdiel & De La Rose & Yan Block,2025-06-19,2025-11-16,22,140,single,True,1,151,11,4,2025-07-12,23,False,False,29,2025-06-24,5
+x'clusivo,gonzy,X'CLUSIVO,Gonzy,2025-01-31,2025-03-09,3,38,single,True,1,38,0,1,2025-03-02,30,False,False,3,2025-03-02,30
+x'clusivo - remix,gonzy,X'CLUSIVO - REMIX,Gonzy,2025-10-13,2025-11-23,21,42,album,True,18,42,0,1,2025-10-13,0,False,False,21,2025-10-13,0
+x'clusivo - remix,gonzy & saiko & arcángel,X'CLUSIVO - REMIX,Gonzy & SAIKO & Arcángel,2025-03-03,2025-10-12,1,220,single,True,1,224,4,1,2025-03-03,0,False,False,1,2025-03-03,0
+xxx_rosario_xxx,saiko,Xxx_Rosario_xxX,Saiko,2024-12-24,2025-01-05,23,13,album,True,7,13,0,1,2024-12-24,0,False,False,23,2024-12-24,0
+ya es navidad popurrí: ya es navidad- zúmbale a la pandereta - ya vienen los reyes magos - arre borriquito - ya es navidad,raya real,Ya es Navidad Popurrí: Ya es Navidad- Zúmbale a la pandereta - Ya vienen los Reyes Magos - Arre Borriquito - Ya es Navidad,Raya Real,2024-12-25,2024-12-25,34,1,album,False,9,1,0,1,2024-12-25,0,False,False,34,2024-12-25,0
+yandel 150,yandel,Yandel 150,Yandel,2024-05-18,2024-09-23,10,125,album,True,17,129,4,2,2024-05-18,0,True,False,10,2024-05-18,0
+yankee 150,yandel & feid & daddy yankee,Yankee 150,Yandel & Feid & Daddy Yankee,2024-06-18,2024-06-18,46,1,single,True,1,1,0,1,2024-06-18,0,False,False,46,2024-06-18,0
+"yes, and?",ariana grande,"yes, and?",Ariana Grande,2025-01-14,2025-01-20,30,7,single,True,1,7,0,1,2025-01-18,4,False,False,30,2025-01-18,4
+yo lo soñé,saiko,YO LO SOÑÉ,SAIKO,2025-04-28,2025-08-16,1,109,album,False,16,111,2,1,2025-04-30,2,False,False,1,2025-04-30,2
+yo lo soñé,saiko & omar montes,YO LO SOÑÉ,SAIKO & Omar Montes,2025-04-19,2025-04-27,2,9,single,False,1,9,0,1,2025-04-25,6,False,False,2,2025-04-25,6
+yo sé,yan block & torrres,Yo sé,Yan Block & TORRRES,2025-11-01,2025-11-27,8,26,single,True,1,27,1,2,2025-11-22,21,False,True,49,2025-11-01,0
+yo tengo un novio,lola indigo,YO TENGO UN NOVIO,Lola Indigo,2024-12-17,2024-12-24,18,8,album,False,7,8,0,1,2024-12-21,4,False,False,18,2024-12-21,4
+yotuloko,omar montes & rels b,YOTULOKO,Omar Montes & Rels B,2025-07-14,2025-11-05,22,114,single,False,1,115,1,1,2025-07-27,13,False,False,22,2025-07-27,13
+"young miko: bzrp music sessions, vol. 58",bizarrap & young miko,"Young Miko: Bzrp Music Sessions, Vol. 58",Bizarrap & Young Miko,2025-01-13,2025-04-26,1,101,single,False,1,104,3,2,2025-01-13,0,False,False,1,2025-01-13,0
+zorra,nebulossa,ZORRA,Nebulossa,2025-02-05,2025-05-18,8,21,single,True,1,103,82,2,2025-02-05,0,False,False,8,2025-02-05,0
