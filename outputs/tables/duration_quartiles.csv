@@ -1,0 +1,5 @@
+length_quartile,songs,median_minutes,n_90,med_days_90,med_peak,top10_share
+shortest,145,2.5166666666666666,117,6.0,24.0,27%
+short-mid,143,2.9336166666666665,105,11.0,22.0,28%
+long-mid,143,3.3507333333333333,97,27.0,17.0,33%
+longest,144,4.025475,108,15.0,17.5,30%
