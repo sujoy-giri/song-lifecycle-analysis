@@ -60,7 +60,7 @@ if view.empty:
 
 # ---------- Header and headline numbers ----------
 st.title('Songs Streaming Lifecycle Analytics')
-st.caption('Spain Top 50, daily chart data prepared for Atlantic Recording Corporation')
+st.caption('Spain Top 50, daily chart data. Based on a Unified Mentor project brief (client scenario: Atlantic Recording Corporation).')
 
 c1, c2, c3 = st.columns(3)
 c1.metric('Songs', f"{view.groupby(['song_key', 'artist_key']).ngroups:,}")
