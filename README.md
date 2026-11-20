@@ -55,7 +55,7 @@ Requires Python 3 (developed on Python 3.14, Windows). From the project root in 
 ```powershell
 python -m venv venv
 .\venv\Scripts\Activate.ps1
-pip install -r requirements.txt
+pip install -r requirements-notebooks.txt
 ```
 
 Run the notebooks in order (01 to 06) with the `venv` selected as the kernel. Each one reads the files written by the one before it, and the notebooks use relative paths, so run them from the `notebooks/` folder.
