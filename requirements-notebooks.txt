@@ -1,5 +1,0 @@
--r requirements.txt
-numpy
-matplotlib
-jupyter
-ipykernel
